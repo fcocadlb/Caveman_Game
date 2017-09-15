@@ -1,36 +1,28 @@
 fileFormatVersion: 2
-guid: b0d2c03b25adb7d4bb8ec834c7ccf576
-timeCreated: 1505349804
+guid: 3b901f4a7b56c6843acfb68e20d4c60b
+timeCreated: 1505438135
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: pasted__polySurface6
-    100002: pCylinder1
-    100004: pPlane2
-    100006: pSphere1
-    100008: pSphere2
-    100010: pSphere3
-    100012: pTorus1
-    100014: //RootNode
-    100016: transform1
-    100018: transform2
-    100020: group1
-    100022: group2
-    100024: bottom
-    400000: pasted__polySurface6
-    400002: pCylinder1
-    400004: pPlane2
-    400006: pSphere1
-    400008: pSphere2
-    400010: pSphere3
-    400012: pTorus1
-    400014: //RootNode
-    400016: transform1
-    400018: transform2
-    400020: group1
-    400022: group2
-    400024: bottom
+    100000: bottom
+    100002: group1
+    100004: group2
+    100006: pasted__polySurface6
+    100008: pCylinder1
+    100010: pPlane2
+    100012: pSphere3
+    100014: pTorus1
+    100016: //RootNode
+    400000: bottom
+    400002: group1
+    400004: group2
+    400006: pasted__polySurface6
+    400008: pCylinder1
+    400010: pPlane2
+    400012: pSphere3
+    400014: pTorus1
+    400016: //RootNode
     2000000: bottom
     2300000: pasted__polySurface6
     2300002: pCylinder1
