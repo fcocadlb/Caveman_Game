@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: SciFi_Pedestal.ma
-//Last modified: Thu, Sep 14, 2017 10:14:15 PM
+//Last modified: Thu, Sep 14, 2017 10:21:53 PM
 //Codeset: 1252
 requires maya "2017";
 requires "stereoCamera" "10.0";
@@ -14,8 +14,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "68559361-452A-0B72-21FF-75A1D82197E2";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -0.046083235896293609 0.42100507574142909 1.8721255830064676 ;
-	setAttr ".r" -type "double3" 12.861647290971 -2881.799999998465 9.9441402124746769e-017 ;
+	setAttr ".t" -type "double3" 0.079686363676066657 1.3380502046053488 1.8715120331797566 ;
+	setAttr ".r" -type "double3" -12.938352709029093 -2878.1999999984496 -2.4860350531228773e-017 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "1E3D9339-4AAA-CF76-F0DF-6BB5B24B9F31";
 	setAttr -k off ".v" no;
@@ -271,7 +271,7 @@ createNode mesh -n "pCylinderShape1" -p "pCylinder1";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.46878834813833237 0.62277036905288696 ;
+	setAttr ".pv" -type "double2" 0.48366119712591171 0.52140781283378601 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
