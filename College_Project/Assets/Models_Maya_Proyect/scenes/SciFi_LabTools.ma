@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
-//Name: SciFi_ElectricAntenna.ma
-//Last modified: Sat, Sep 16, 2017 03:13:56 PM
+//Name: SciFi_LabTools.ma
+//Last modified: Sat, Sep 16, 2017 03:14:26 PM
 //Codeset: 1252
 requires maya "2017";
 requires "stereoCamera" "10.0";
@@ -8761,4 +8761,4 @@ connectAttr "groupId1.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId9.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId10.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId11.msg" ":initialShadingGroup.gn" -na;
-// End of SciFi_ElectricAntenna.ma
+// End of SciFi_LabTools.ma
