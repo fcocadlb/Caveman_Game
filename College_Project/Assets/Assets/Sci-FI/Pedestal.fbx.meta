@@ -10,20 +10,30 @@ ModelImporter:
     100004: //RootNode
     100006: pSphere3
     100008: pTorus1
+    100010: polySurface1
+    100012: polySurface2
     400000: group2
     400002: pCylinder1
     400004: //RootNode
     400006: pSphere3
     400008: pTorus1
+    400010: polySurface1
+    400012: polySurface2
     2300000: pCylinder1
     2300002: pSphere3
     2300004: pTorus1
+    2300006: polySurface1
+    2300008: polySurface2
     3300000: pCylinder1
     3300002: pSphere3
     3300004: pTorus1
+    3300006: polySurface1
+    3300008: polySurface2
     4300000: pCylinder1
     4300002: pTorus1
     4300004: pSphere3
+    4300006: polySurface1
+    4300008: polySurface2
   materials:
     importMaterials: 1
     materialName: 0

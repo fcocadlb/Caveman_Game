@@ -18,6 +18,8 @@ ModelImporter:
     100020: group1
     100022: group2
     100024: bottom
+    100026: polySurface1
+    100028: polySurface2
     400000: pasted__polySurface6
     400002: pCylinder1
     400004: pPlane2
@@ -31,22 +33,30 @@ ModelImporter:
     400020: group1
     400022: group2
     400024: bottom
+    400026: polySurface1
+    400028: polySurface2
     2000000: bottom
     2300000: pasted__polySurface6
     2300002: pCylinder1
     2300004: pPlane2
     2300006: pSphere3
     2300008: pTorus1
+    2300010: polySurface1
+    2300012: polySurface2
     3300000: pasted__polySurface6
     3300002: pCylinder1
     3300004: pPlane2
     3300006: pSphere3
     3300008: pTorus1
+    3300010: polySurface1
+    3300012: polySurface2
     4300000: pasted__polySurface6
     4300002: pPlane2
     4300004: pCylinder1
     4300006: pTorus1
     4300008: pSphere3
+    4300010: polySurface1
+    4300012: polySurface2
     9500000: //RootNode
   materials:
     importMaterials: 1
