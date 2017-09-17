@@ -44,6 +44,8 @@ ModelImporter:
     100072: pTorus9
     100074: pTorus9 1
     100076: pTorus9 2
+    100078: polySurface3
+    100080: polySurface4
     400000: pasted__polySurface4
     400002: pasted__polySurface5
     400004: pCylinder1
@@ -83,6 +85,8 @@ ModelImporter:
     400072: pTorus9
     400074: pTorus9 1
     400076: pTorus9 2
+    400078: polySurface3
+    400080: polySurface4
     2300000: pasted__polySurface5
     2300002: pCylinder2
     2300004: pPlane1
@@ -106,6 +110,8 @@ ModelImporter:
     2300040: pTorus9
     2300042: pTorus9 1
     2300044: pTorus9 2
+    2300046: polySurface3
+    2300048: polySurface4
     3300000: pasted__polySurface5
     3300002: pCylinder2
     3300004: pPlane1
@@ -129,6 +135,8 @@ ModelImporter:
     3300040: pTorus9
     3300042: pTorus9 1
     3300044: pTorus9 2
+    3300046: polySurface3
+    3300048: polySurface4
     4300000: pPlane1
     4300002: pasted__polySurface5
     4300004: pCylinder2
@@ -152,6 +160,8 @@ ModelImporter:
     4300040: pTorus5
     4300042: pCylinder4
     4300044: pTorus8
+    4300046: polySurface3
+    4300048: polySurface4
     9500000: //RootNode
   materials:
     importMaterials: 1

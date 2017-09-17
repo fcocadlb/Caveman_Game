@@ -54,6 +54,7 @@ ModelImporter:
     100092: pTorus4 1
     100094: transform1
     100096: transform2
+    100098: left
     400000: curve1
     400002: group1
     400004: group2
@@ -103,6 +104,8 @@ ModelImporter:
     400092: pTorus4 1
     400094: transform1
     400096: transform2
+    400098: left
+    2000000: left
     2300000: pasted__polySurface5
     2300002: pCylinder2
     2300004: pCylinder4
