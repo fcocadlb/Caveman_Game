@@ -1,11 +1,12 @@
 //Maya ASCII 2017 scene
-//Name: SciFi_Machinery.ma
-//Last modified: Sun, Sep 17, 2017 08:48:31 PM
+//Name: SciFi_Machinery.0008.ma
+//Last modified: Sun, Sep 17, 2017 08:48:27 PM
 //Codeset: 1252
 requires maya "2017";
 requires "stereoCamera" "10.0";
 requires "stereoCamera" "10.0";
 currentUnit -l meter -a degree -t film;
+fileInfo "exportedFrom" "C:/Github Unity/Caveman_Game/College_Project/Assets/Models_Maya_Proyect/scenes/SciFi_Machinery.ma";
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2017";
 fileInfo "version" "2017";
@@ -3295,4 +3296,4 @@ connectAttr "pCube7Shape.iog.og[0]" ":initialShadingGroup.dsm" -na;
 connectAttr "groupId28.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId29.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId30.msg" ":initialShadingGroup.gn" -na;
-// End of SciFi_Machinery.ma
+// End of SciFi_Machinery.0008.ma
