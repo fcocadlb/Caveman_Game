@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c54c4f15bfc73344a8caeee5f8d8725b
-timeCreated: 1505924670
+guid: 8adabb92e9d4d75489dd5d5071d3e75f
+timeCreated: 1505926911
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: rock16_5_LP:polySurface1
+    4300000: rock16_2_LP_1:polySurface1
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,7 +57,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1

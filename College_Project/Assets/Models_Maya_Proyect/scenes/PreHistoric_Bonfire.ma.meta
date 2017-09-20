@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c54c4f15bfc73344a8caeee5f8d8725b
-timeCreated: 1505924670
+guid: b3f48480b27bbfc4ead24a647690e7ac
+timeCreated: 1505926692
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,9 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: rock16_5_LP:polySurface1
+    4300000: pPlane1
+    4300002: rock16_2_LP_1:polySurface1
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,7 +59,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
@@ -79,7 +81,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
