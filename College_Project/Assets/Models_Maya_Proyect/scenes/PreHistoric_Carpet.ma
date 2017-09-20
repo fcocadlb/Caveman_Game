@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: PreHistoric_Carpet.ma
-//Last modified: Tue, Sep 19, 2017 03:23:06 PM
+//Last modified: Tue, Sep 19, 2017 04:00:41 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l meter -a degree -t film;
