@@ -6,10 +6,93 @@ ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
+    100002: pCylinder1
+    100004: pCylinder2
+    100006: pCylinder3
+    100008: polySurface1
+    100010: polySurface10
+    100012: polySurface2
+    100014: polySurface3
+    100016: polySurface4
+    100018: polySurface5
+    100020: polySurface6
+    100022: polySurface7
+    100024: polySurface8
+    100026: polySurface9
+    100028: rock16_2_LP_1:polySurface1
+    100030: pCylinder4
+    100032: pasted__pPlane1
+    100034: group3
+    100036: group4
     400000: //RootNode
+    400002: pCylinder1
+    400004: pCylinder2
+    400006: pCylinder3
+    400008: polySurface1
+    400010: polySurface10
+    400012: polySurface2
+    400014: polySurface3
+    400016: polySurface4
+    400018: polySurface5
+    400020: polySurface6
+    400022: polySurface7
+    400024: polySurface8
+    400026: polySurface9
+    400028: rock16_2_LP_1:polySurface1
+    400030: pCylinder4
+    400032: pasted__pPlane1
+    400034: group3
+    400036: group4
     2300000: //RootNode
+    2300002: pCylinder1
+    2300004: pCylinder2
+    2300006: pCylinder3
+    2300008: polySurface1
+    2300010: polySurface10
+    2300012: polySurface2
+    2300014: polySurface3
+    2300016: polySurface4
+    2300018: polySurface5
+    2300020: polySurface6
+    2300022: polySurface7
+    2300024: polySurface8
+    2300026: polySurface9
+    2300028: rock16_2_LP_1:polySurface1
+    2300030: pCylinder4
+    2300032: pasted__pPlane1
     3300000: //RootNode
+    3300002: pCylinder1
+    3300004: pCylinder2
+    3300006: pCylinder3
+    3300008: polySurface1
+    3300010: polySurface10
+    3300012: polySurface2
+    3300014: polySurface3
+    3300016: polySurface4
+    3300018: polySurface5
+    3300020: polySurface6
+    3300022: polySurface7
+    3300024: polySurface8
+    3300026: polySurface9
+    3300028: rock16_2_LP_1:polySurface1
+    3300030: pCylinder4
+    3300032: pasted__pPlane1
     4300000: rock16_2_LP_1:polySurface1
+    4300002: polySurface5
+    4300004: pCylinder1
+    4300006: pCylinder3
+    4300008: polySurface10
+    4300010: pCylinder2
+    4300012: polySurface9
+    4300014: polySurface8
+    4300016: polySurface7
+    4300018: polySurface1
+    4300020: polySurface2
+    4300022: polySurface4
+    4300024: polySurface3
+    4300026: polySurface6
+    4300028: pCylinder4
+    4300030: pasted__pPlane1
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,7 +140,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
