@@ -1,66 +1,55 @@
 fileFormatVersion: 2
-guid: 599e9156a63f69e48b2de924ad31aa6c
-timeCreated: 1505607328
+guid: 015fabab4c630d44ea56a8646ca5389d
+timeCreated: 1506040031
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: pasted__polySurface1
-    100002: //RootNode
-    100004: pasted__polySurface2
-    100006: pasted__polySurface3
-    100008: pasted__polySurface4
-    100010: pasted__polySurface5
-    100012: group2
-    100014: pCube6
-    100016: polySurface1
-    100018: polySurface2
-    100020: polySurface3
-    100022: polySurface4
-    100024: polySurface5
-    400000: pasted__polySurface1
-    400002: //RootNode
-    400004: pasted__polySurface2
-    400006: pasted__polySurface3
-    400008: pasted__polySurface4
-    400010: pasted__polySurface5
-    400012: group2
-    400014: pCube6
-    400016: polySurface1
-    400018: polySurface2
-    400020: polySurface3
-    400022: polySurface4
-    400024: polySurface5
-    2300000: pasted__polySurface1
-    2300002: pasted__polySurface2
-    2300004: pasted__polySurface3
-    2300006: pasted__polySurface4
-    2300008: pasted__polySurface5
-    2300010: polySurface1
-    2300012: polySurface2
-    2300014: polySurface3
-    2300016: polySurface4
-    2300018: polySurface5
-    3300000: pasted__polySurface1
-    3300002: pasted__polySurface2
-    3300004: pasted__polySurface3
-    3300006: pasted__polySurface4
-    3300008: pasted__polySurface5
-    3300010: polySurface1
-    3300012: polySurface2
-    3300014: polySurface3
-    3300016: polySurface4
-    3300018: polySurface5
-    4300000: pasted__polySurface1
-    4300002: pasted__polySurface2
-    4300004: pasted__polySurface3
-    4300006: pasted__polySurface4
-    4300008: pasted__polySurface5
-    4300010: polySurface5
-    4300012: polySurface4
-    4300014: polySurface3
-    4300016: polySurface2
-    4300018: polySurface1
+    100000: group4
+    100002: group5
+    100004: group5 1
+    100006: group6
+    100008: pasted__nurbsToPoly2
+    100010: pasted__nurbsToPoly2 1
+    100012: pasted__nurbsToPoly3
+    100014: pasted__nurbsToPoly3 1
+    100016: pasted__pCube2
+    100018: pasted__pCube2 1
+    100020: pCylinder5
+    100022: //RootNode
+    400000: group4
+    400002: group5
+    400004: group5 1
+    400006: group6
+    400008: pasted__nurbsToPoly2
+    400010: pasted__nurbsToPoly2 1
+    400012: pasted__nurbsToPoly3
+    400014: pasted__nurbsToPoly3 1
+    400016: pasted__pCube2
+    400018: pasted__pCube2 1
+    400020: pCylinder5
+    400022: //RootNode
+    2300000: pasted__nurbsToPoly2
+    2300002: pasted__nurbsToPoly2 1
+    2300004: pasted__nurbsToPoly3
+    2300006: pasted__nurbsToPoly3 1
+    2300008: pasted__pCube2
+    2300010: pasted__pCube2 1
+    2300012: pCylinder5
+    3300000: pasted__nurbsToPoly2
+    3300002: pasted__nurbsToPoly2 1
+    3300004: pasted__nurbsToPoly3
+    3300006: pasted__nurbsToPoly3 1
+    3300008: pasted__pCube2
+    3300010: pasted__pCube2 1
+    3300012: pCylinder5
+    4300000: pCylinder5
+    4300002: pasted__pCube2
+    4300004: pasted__nurbsToPoly3
+    4300006: pasted__nurbsToPoly2
+    4300008: pasted__pCube2
+    4300010: pasted__nurbsToPoly3
+    4300012: pasted__nurbsToPoly2
   materials:
     importMaterials: 1
     materialName: 0
@@ -107,8 +96,8 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 60
-    normalImportMode: 0
+    normalSmoothAngle: 55
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1

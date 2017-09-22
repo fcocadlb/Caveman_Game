@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: SciFi_Meteorite.ma
-//Last modified: Thu, Sep 21, 2017 07:15:21 PM
+//Last modified: Thu, Sep 21, 2017 07:22:28 PM
 //Codeset: 1252
 requires maya "2017";
 requires "stereoCamera" "10.0";
@@ -14,8 +14,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "11A0FD60-48ED-BCD9-D8EA-179B944EF992";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 0.56705261758789638 0.23631211096183408 0.57823279298525943 ;
-	setAttr ".r" -type "double3" -20.738352729597235 -320.99999999998334 -2.0463045806102199e-015 ;
+	setAttr ".t" -type "double3" -0.10136425130522397 0.84301730984698209 -0.018634272988546811 ;
+	setAttr ".r" -type "double3" -87.938352729540995 -144.19999999994909 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "31E6F2E1-4A49-AEC5-A2E7-37B457B7FBF0";
 	setAttr -k off ".v" no;

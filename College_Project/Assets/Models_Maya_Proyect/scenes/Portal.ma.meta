@@ -11,15 +11,282 @@ ModelImporter:
     100006: //RootNode
     100008: transform1
     100010: transform2
+    100012: curve1
+    100014: pCylinder1
+    100016: pCylinder2
+    100018: pCylinder3
+    100020: transform3
+    100022: transform4
+    100024: group
+    100026: group1
+    100028: pasted__group1
+    100030: pasted__group1 1
+    100032: pasted__group2
+    100034: pasted__group2 1
+    100036: pasted__group3
+    100038: pasted__group3 1
+    100040: pasted__group4
+    100042: pasted__group4 1
+    100044: pasted__group5
+    100046: pasted__group5 1
+    100048: pasted__group6
+    100050: pasted__group6 1
+    100052: pasted__group7
+    100054: pasted__group7 1
+    100056: pasted__pCylinder2
+    100058: pasted__pCylinder2 1
+    100060: pasted__pCylinder3
+    100062: pasted__pCylinder3 1
+    100064: pasted__pCylinder4
+    100066: pasted__pCylinder4 1
+    100068: pasted__pCylinder4 2
+    100070: pasted__pCylinder4 3
+    100072: pasted__pCylinder4 4
+    100074: pasted__pCylinder4 5
+    100076: pasted__polySurface1
+    100078: pasted__polySurface1 1
+    100080: pasted__polySurface2
+    100082: pasted__polySurface2 1
+    100084: pasted__polySurface3
+    100086: pasted__polySurface3 1
+    100088: pasted__polySurface4
+    100090: pasted__polySurface4 1
+    100092: pasted__pTorus1
+    100094: pasted__pTorus1 1
+    100096: pasted__pTorus2
+    100098: pasted__pTorus2 1
+    100100: pasted__pTorus3
+    100102: pasted__pTorus3 1
+    100104: pasted__pTorus4
+    100106: pasted__pTorus4 1
+    100108: pasted__pTorus5
+    100110: pasted__pTorus5 1
+    100112: pasted__pTorus5 2
+    100114: pasted__pTorus5 3
+    100116: pasted__pTorus5 4
+    100118: pasted__pTorus5 5
+    100120: pasted__pTorus8
+    100122: pasted__pTorus8 1
+    100124: pasted__pTorus8 2
+    100126: pasted__pTorus8 3
+    100128: pasted__pTorus8 4
+    100130: pasted__pTorus8 5
+    100132: pasted__pTorus9
+    100134: pasted__pTorus9 1
+    100136: pasted__pTorus9 2
+    100138: pasted__pTorus9 3
+    100140: pasted__pTorus9 4
+    100142: pasted__pTorus9 5
+    100144: pCylinder4
+    100146: pCylinder5
+    100148: SciFi_Portal
     400000: pCube1
     400002: pCube2
     400004: pCube3
     400006: //RootNode
     400008: transform1
     400010: transform2
+    400012: curve1
+    400014: pCylinder1
+    400016: pCylinder2
+    400018: pCylinder3
+    400020: transform3
+    400022: transform4
+    400024: group
+    400026: group1
+    400028: pasted__group1
+    400030: pasted__group1 1
+    400032: pasted__group2
+    400034: pasted__group2 1
+    400036: pasted__group3
+    400038: pasted__group3 1
+    400040: pasted__group4
+    400042: pasted__group4 1
+    400044: pasted__group5
+    400046: pasted__group5 1
+    400048: pasted__group6
+    400050: pasted__group6 1
+    400052: pasted__group7
+    400054: pasted__group7 1
+    400056: pasted__pCylinder2
+    400058: pasted__pCylinder2 1
+    400060: pasted__pCylinder3
+    400062: pasted__pCylinder3 1
+    400064: pasted__pCylinder4
+    400066: pasted__pCylinder4 1
+    400068: pasted__pCylinder4 2
+    400070: pasted__pCylinder4 3
+    400072: pasted__pCylinder4 4
+    400074: pasted__pCylinder4 5
+    400076: pasted__polySurface1
+    400078: pasted__polySurface1 1
+    400080: pasted__polySurface2
+    400082: pasted__polySurface2 1
+    400084: pasted__polySurface3
+    400086: pasted__polySurface3 1
+    400088: pasted__polySurface4
+    400090: pasted__polySurface4 1
+    400092: pasted__pTorus1
+    400094: pasted__pTorus1 1
+    400096: pasted__pTorus2
+    400098: pasted__pTorus2 1
+    400100: pasted__pTorus3
+    400102: pasted__pTorus3 1
+    400104: pasted__pTorus4
+    400106: pasted__pTorus4 1
+    400108: pasted__pTorus5
+    400110: pasted__pTorus5 1
+    400112: pasted__pTorus5 2
+    400114: pasted__pTorus5 3
+    400116: pasted__pTorus5 4
+    400118: pasted__pTorus5 5
+    400120: pasted__pTorus8
+    400122: pasted__pTorus8 1
+    400124: pasted__pTorus8 2
+    400126: pasted__pTorus8 3
+    400128: pasted__pTorus8 4
+    400130: pasted__pTorus8 5
+    400132: pasted__pTorus9
+    400134: pasted__pTorus9 1
+    400136: pasted__pTorus9 2
+    400138: pasted__pTorus9 3
+    400140: pasted__pTorus9 4
+    400142: pasted__pTorus9 5
+    400144: pCylinder4
+    400146: pCylinder5
+    400148: SciFi_Portal
     2300000: pCube3
+    2300002: pCylinder3
+    2300004: pasted__pCylinder4
+    2300006: pasted__pCylinder4 1
+    2300008: pasted__pCylinder4 2
+    2300010: pasted__pCylinder4 3
+    2300012: pasted__pCylinder4 4
+    2300014: pasted__pCylinder4 5
+    2300016: pasted__polySurface1
+    2300018: pasted__polySurface1 1
+    2300020: pasted__polySurface2
+    2300022: pasted__polySurface2 1
+    2300024: pasted__polySurface3
+    2300026: pasted__polySurface3 1
+    2300028: pasted__polySurface4
+    2300030: pasted__polySurface4 1
+    2300032: pasted__pTorus1
+    2300034: pasted__pTorus1 1
+    2300036: pasted__pTorus2
+    2300038: pasted__pTorus2 1
+    2300040: pasted__pTorus3
+    2300042: pasted__pTorus3 1
+    2300044: pasted__pTorus4
+    2300046: pasted__pTorus4 1
+    2300048: pasted__pTorus5
+    2300050: pasted__pTorus5 1
+    2300052: pasted__pTorus5 2
+    2300054: pasted__pTorus5 3
+    2300056: pasted__pTorus5 4
+    2300058: pasted__pTorus5 5
+    2300060: pasted__pTorus8
+    2300062: pasted__pTorus8 1
+    2300064: pasted__pTorus8 2
+    2300066: pasted__pTorus8 3
+    2300068: pasted__pTorus8 4
+    2300070: pasted__pTorus8 5
+    2300072: pasted__pTorus9
+    2300074: pasted__pTorus9 1
+    2300076: pasted__pTorus9 2
+    2300078: pasted__pTorus9 3
+    2300080: pasted__pTorus9 4
+    2300082: pasted__pTorus9 5
+    2300084: pCylinder4
+    2300086: pCylinder5
     3300000: pCube3
+    3300002: pCylinder3
+    3300004: pasted__pCylinder4
+    3300006: pasted__pCylinder4 1
+    3300008: pasted__pCylinder4 2
+    3300010: pasted__pCylinder4 3
+    3300012: pasted__pCylinder4 4
+    3300014: pasted__pCylinder4 5
+    3300016: pasted__polySurface1
+    3300018: pasted__polySurface1 1
+    3300020: pasted__polySurface2
+    3300022: pasted__polySurface2 1
+    3300024: pasted__polySurface3
+    3300026: pasted__polySurface3 1
+    3300028: pasted__polySurface4
+    3300030: pasted__polySurface4 1
+    3300032: pasted__pTorus1
+    3300034: pasted__pTorus1 1
+    3300036: pasted__pTorus2
+    3300038: pasted__pTorus2 1
+    3300040: pasted__pTorus3
+    3300042: pasted__pTorus3 1
+    3300044: pasted__pTorus4
+    3300046: pasted__pTorus4 1
+    3300048: pasted__pTorus5
+    3300050: pasted__pTorus5 1
+    3300052: pasted__pTorus5 2
+    3300054: pasted__pTorus5 3
+    3300056: pasted__pTorus5 4
+    3300058: pasted__pTorus5 5
+    3300060: pasted__pTorus8
+    3300062: pasted__pTorus8 1
+    3300064: pasted__pTorus8 2
+    3300066: pasted__pTorus8 3
+    3300068: pasted__pTorus8 4
+    3300070: pasted__pTorus8 5
+    3300072: pasted__pTorus9
+    3300074: pasted__pTorus9 1
+    3300076: pasted__pTorus9 2
+    3300078: pasted__pTorus9 3
+    3300080: pasted__pTorus9 4
+    3300082: pasted__pTorus9 5
+    3300084: pCylinder4
+    3300086: pCylinder5
     4300000: pCube3
+    4300002: pCylinder3
+    4300004: pCylinder4
+    4300006: pCylinder5
+    4300008: pasted__polySurface3
+    4300010: pasted__polySurface4
+    4300012: pasted__polySurface1
+    4300014: pasted__polySurface2
+    4300016: pasted__pTorus1
+    4300018: pasted__pTorus4
+    4300020: pasted__pTorus3
+    4300022: pasted__pTorus2
+    4300024: pasted__pTorus9
+    4300026: pasted__pTorus5
+    4300028: pasted__pCylinder4
+    4300030: pasted__pTorus8
+    4300032: pasted__pTorus9
+    4300034: pasted__pTorus5
+    4300036: pasted__pCylinder4
+    4300038: pasted__pTorus8
+    4300040: pasted__pTorus9
+    4300042: pasted__pTorus5
+    4300044: pasted__pCylinder4
+    4300046: pasted__pTorus8
+    4300048: pasted__polySurface3
+    4300050: pasted__polySurface4
+    4300052: pasted__polySurface1
+    4300054: pasted__polySurface2
+    4300056: pasted__pTorus1
+    4300058: pasted__pTorus4
+    4300060: pasted__pTorus3
+    4300062: pasted__pTorus2
+    4300064: pasted__pTorus9
+    4300066: pasted__pTorus5
+    4300068: pasted__pCylinder4
+    4300070: pasted__pTorus8
+    4300072: pasted__pTorus9
+    4300074: pasted__pTorus5
+    4300076: pasted__pCylinder4
+    4300078: pasted__pTorus8
+    4300080: pasted__pTorus9
+    4300082: pasted__pTorus5
+    4300084: pasted__pCylinder4
+    4300086: pasted__pTorus8
     9500000: //RootNode
   materials:
     importMaterials: 1
