@@ -80,6 +80,17 @@ ModelImporter:
     100144: pCylinder4
     100146: pCylinder5
     100148: SciFi_Portal
+    100150: group4
+    100152: group5
+    100154: group5 1
+    100156: group6
+    100158: pasted__nurbsToPoly2
+    100160: pasted__nurbsToPoly2 1
+    100162: pasted__nurbsToPoly3
+    100164: pasted__nurbsToPoly3 1
+    100166: pasted__pCube2
+    100168: pasted__pCube2 1
+    100170: PreHistoric_Portal
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -155,6 +166,17 @@ ModelImporter:
     400144: pCylinder4
     400146: pCylinder5
     400148: SciFi_Portal
+    400150: group4
+    400152: group5
+    400154: group5 1
+    400156: group6
+    400158: pasted__nurbsToPoly2
+    400160: pasted__nurbsToPoly2 1
+    400162: pasted__nurbsToPoly3
+    400164: pasted__nurbsToPoly3 1
+    400166: pasted__pCube2
+    400168: pasted__pCube2 1
+    400170: PreHistoric_Portal
     2300000: pCube3
     2300002: pCylinder3
     2300004: pasted__pCylinder4
@@ -199,6 +221,12 @@ ModelImporter:
     2300082: pasted__pTorus9 5
     2300084: pCylinder4
     2300086: pCylinder5
+    2300088: pasted__nurbsToPoly2
+    2300090: pasted__nurbsToPoly2 1
+    2300092: pasted__nurbsToPoly3
+    2300094: pasted__nurbsToPoly3 1
+    2300096: pasted__pCube2
+    2300098: pasted__pCube2 1
     3300000: pCube3
     3300002: pCylinder3
     3300004: pasted__pCylinder4
@@ -243,6 +271,12 @@ ModelImporter:
     3300082: pasted__pTorus9 5
     3300084: pCylinder4
     3300086: pCylinder5
+    3300088: pasted__nurbsToPoly2
+    3300090: pasted__nurbsToPoly2 1
+    3300092: pasted__nurbsToPoly3
+    3300094: pasted__nurbsToPoly3 1
+    3300096: pasted__pCube2
+    3300098: pasted__pCube2 1
     4300000: pCube3
     4300002: pCylinder3
     4300004: pCylinder4
@@ -287,6 +321,12 @@ ModelImporter:
     4300082: pasted__pTorus5
     4300084: pasted__pCylinder4
     4300086: pasted__pTorus8
+    4300088: pasted__pCube2
+    4300090: pasted__nurbsToPoly3
+    4300092: pasted__nurbsToPoly2
+    4300094: pasted__pCube2
+    4300096: pasted__nurbsToPoly3
+    4300098: pasted__nurbsToPoly2
     9500000: //RootNode
   materials:
     importMaterials: 1
