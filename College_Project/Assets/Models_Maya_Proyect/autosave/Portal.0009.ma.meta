@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: ea2091ca0dac3fb47a28cad8922762f1
+timeCreated: 1506207303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: curve1
+    100002: curve2
+    100004: curve3
+    100006: curve4
+    100008: curve5
+    100010: group
+    100012: group1
+    100014: group12
+    100016: group13
+    100018: group4
+    100020: group5
+    100022: group5 1
+    100024: group7
+    100026: group7 1
+    100028: group8
+    100030: group9
+    100032: loftedSurface1
+    100034: loftedSurface2
+    100036: Medieval_Portal
+    100038: nurbsToPoly3
+    100040: nurbsToPoly3 1
+    100042: nurbsToPoly6
+    100044: nurbsToPoly6 1
+    100046: nurbsToPoly7
+    100048: nurbsToPoly7 1
+    100050: pasted__group1
+    100052: pasted__group1 1
+    100054: pasted__group2
+    100056: pasted__group2 1
+    100058: pasted__group3
+    100060: pasted__group3 1
+    100062: pasted__group4
+    100064: pasted__group4 1
+    100066: pasted__group5
+    100068: pasted__group5 1
+    100070: pasted__group6
+    100072: pasted__group6 1
+    100074: pasted__group7
+    100076: pasted__group7 1
+    100078: pasted__nurbsToPoly2
+    100080: pasted__nurbsToPoly2 1
+    100082: pasted__nurbsToPoly3
+    100084: pasted__nurbsToPoly3 1
+    100086: pasted__nurbsToPoly4
+    100088: pasted__nurbsToPoly4 1
+    100090: pasted__pCube2
+    100092: pasted__pCube2 1
+    100094: pasted__pCylinder2
+    100096: pasted__pCylinder2 1
+    100098: pasted__pCylinder3
+    100100: pasted__pCylinder3 1
+    100102: pasted__pCylinder3 2
+    100104: pasted__pCylinder3 3
+    100106: pasted__pCylinder4
+    100108: pasted__pCylinder4 1
+    100110: pasted__pCylinder4 2
+    100112: pasted__pCylinder4 3
+    100114: pasted__pCylinder4 4
+    100116: pasted__pCylinder4 5
+    100118: pasted__polySurface1
+    100120: pasted__polySurface1 1
+    100122: pasted__polySurface2
+    100124: pasted__polySurface2 1
+    100126: pasted__polySurface3
+    100128: pasted__polySurface3 1
+    100130: pasted__polySurface4
+    100132: pasted__polySurface4 1
+    100134: pasted__pTorus1
+    100136: pasted__pTorus1 1
+    100138: pasted__pTorus2
+    100140: pasted__pTorus2 1
+    100142: pasted__pTorus3
+    100144: pasted__pTorus3 1
+    100146: pasted__pTorus4
+    100148: pasted__pTorus4 1
+    100150: pasted__pTorus5
+    100152: pasted__pTorus5 1
+    100154: pasted__pTorus5 2
+    100156: pasted__pTorus5 3
+    100158: pasted__pTorus5 4
+    100160: pasted__pTorus5 5
+    100162: pasted__pTorus8
+    100164: pasted__pTorus8 1
+    100166: pasted__pTorus8 2
+    100168: pasted__pTorus8 3
+    100170: pasted__pTorus8 4
+    100172: pasted__pTorus8 5
+    100174: pasted__pTorus9
+    100176: pasted__pTorus9 1
+    100178: pasted__pTorus9 2
+    100180: pasted__pTorus9 3
+    100182: pasted__pTorus9 4
+    100184: pasted__pTorus9 5
+    100186: pCube3
+    100188: pCylinder3
+    100190: pCylinder4
+    100192: pCylinder5
+    100194: //RootNode
+    100196: PreHistoric_Portal
+    100198: pTorus1
+    100200: pTorus1 1
+    100202: SciFi_Portal
+    400000: curve1
+    400002: curve2
+    400004: curve3
+    400006: curve4
+    400008: curve5
+    400010: group
+    400012: group1
+    400014: group12
+    400016: group13
+    400018: group4
+    400020: group5
+    400022: group5 1
+    400024: group7
+    400026: group7 1
+    400028: group8
+    400030: group9
+    400032: loftedSurface1
+    400034: loftedSurface2
+    400036: Medieval_Portal
+    400038: nurbsToPoly3
+    400040: nurbsToPoly3 1
+    400042: nurbsToPoly6
+    400044: nurbsToPoly6 1
+    400046: nurbsToPoly7
+    400048: nurbsToPoly7 1
+    400050: pasted__group1
+    400052: pasted__group1 1
+    400054: pasted__group2
+    400056: pasted__group2 1
+    400058: pasted__group3
+    400060: pasted__group3 1
+    400062: pasted__group4
+    400064: pasted__group4 1
+    400066: pasted__group5
+    400068: pasted__group5 1
+    400070: pasted__group6
+    400072: pasted__group6 1
+    400074: pasted__group7
+    400076: pasted__group7 1
+    400078: pasted__nurbsToPoly2
+    400080: pasted__nurbsToPoly2 1
+    400082: pasted__nurbsToPoly3
+    400084: pasted__nurbsToPoly3 1
+    400086: pasted__nurbsToPoly4
+    400088: pasted__nurbsToPoly4 1
+    400090: pasted__pCube2
+    400092: pasted__pCube2 1
+    400094: pasted__pCylinder2
+    400096: pasted__pCylinder2 1
+    400098: pasted__pCylinder3
+    400100: pasted__pCylinder3 1
+    400102: pasted__pCylinder3 2
+    400104: pasted__pCylinder3 3
+    400106: pasted__pCylinder4
+    400108: pasted__pCylinder4 1
+    400110: pasted__pCylinder4 2
+    400112: pasted__pCylinder4 3
+    400114: pasted__pCylinder4 4
+    400116: pasted__pCylinder4 5
+    400118: pasted__polySurface1
+    400120: pasted__polySurface1 1
+    400122: pasted__polySurface2
+    400124: pasted__polySurface2 1
+    400126: pasted__polySurface3
+    400128: pasted__polySurface3 1
+    400130: pasted__polySurface4
+    400132: pasted__polySurface4 1
+    400134: pasted__pTorus1
+    400136: pasted__pTorus1 1
+    400138: pasted__pTorus2
+    400140: pasted__pTorus2 1
+    400142: pasted__pTorus3
+    400144: pasted__pTorus3 1
+    400146: pasted__pTorus4
+    400148: pasted__pTorus4 1
+    400150: pasted__pTorus5
+    400152: pasted__pTorus5 1
+    400154: pasted__pTorus5 2
+    400156: pasted__pTorus5 3
+    400158: pasted__pTorus5 4
+    400160: pasted__pTorus5 5
+    400162: pasted__pTorus8
+    400164: pasted__pTorus8 1
+    400166: pasted__pTorus8 2
+    400168: pasted__pTorus8 3
+    400170: pasted__pTorus8 4
+    400172: pasted__pTorus8 5
+    400174: pasted__pTorus9
+    400176: pasted__pTorus9 1
+    400178: pasted__pTorus9 2
+    400180: pasted__pTorus9 3
+    400182: pasted__pTorus9 4
+    400184: pasted__pTorus9 5
+    400186: pCube3
+    400188: pCylinder3
+    400190: pCylinder4
+    400192: pCylinder5
+    400194: //RootNode
+    400196: PreHistoric_Portal
+    400198: pTorus1
+    400200: pTorus1 1
+    400202: SciFi_Portal
+    2300000: nurbsToPoly3
+    2300002: nurbsToPoly3 1
+    2300004: nurbsToPoly6
+    2300006: nurbsToPoly6 1
+    2300008: nurbsToPoly7
+    2300010: nurbsToPoly7 1
+    2300012: pasted__nurbsToPoly2
+    2300014: pasted__nurbsToPoly2 1
+    2300016: pasted__nurbsToPoly3
+    2300018: pasted__nurbsToPoly3 1
+    2300020: pasted__nurbsToPoly4
+    2300022: pasted__nurbsToPoly4 1
+    2300024: pasted__pCube2
+    2300026: pasted__pCube2 1
+    2300028: pasted__pCylinder3
+    2300030: pasted__pCylinder3 1
+    2300032: pasted__pCylinder4
+    2300034: pasted__pCylinder4 1
+    2300036: pasted__pCylinder4 2
+    2300038: pasted__pCylinder4 3
+    2300040: pasted__pCylinder4 4
+    2300042: pasted__pCylinder4 5
+    2300044: pasted__polySurface1
+    2300046: pasted__polySurface1 1
+    2300048: pasted__polySurface2
+    2300050: pasted__polySurface2 1
+    2300052: pasted__polySurface3
+    2300054: pasted__polySurface3 1
+    2300056: pasted__polySurface4
+    2300058: pasted__polySurface4 1
+    2300060: pasted__pTorus1
+    2300062: pasted__pTorus1 1
+    2300064: pasted__pTorus2
+    2300066: pasted__pTorus2 1
+    2300068: pasted__pTorus3
+    2300070: pasted__pTorus3 1
+    2300072: pasted__pTorus4
+    2300074: pasted__pTorus4 1
+    2300076: pasted__pTorus5
+    2300078: pasted__pTorus5 1
+    2300080: pasted__pTorus5 2
+    2300082: pasted__pTorus5 3
+    2300084: pasted__pTorus5 4
+    2300086: pasted__pTorus5 5
+    2300088: pasted__pTorus8
+    2300090: pasted__pTorus8 1
+    2300092: pasted__pTorus8 2
+    2300094: pasted__pTorus8 3
+    2300096: pasted__pTorus8 4
+    2300098: pasted__pTorus8 5
+    2300100: pasted__pTorus9
+    2300102: pasted__pTorus9 1
+    2300104: pasted__pTorus9 2
+    2300106: pasted__pTorus9 3
+    2300108: pasted__pTorus9 4
+    2300110: pasted__pTorus9 5
+    2300112: pCube3
+    2300114: pCylinder3
+    2300116: pCylinder4
+    2300118: pCylinder5
+    2300120: pTorus1
+    2300122: pTorus1 1
+    3300000: nurbsToPoly3
+    3300002: nurbsToPoly3 1
+    3300004: nurbsToPoly6
+    3300006: nurbsToPoly6 1
+    3300008: nurbsToPoly7
+    3300010: nurbsToPoly7 1
+    3300012: pasted__nurbsToPoly2
+    3300014: pasted__nurbsToPoly2 1
+    3300016: pasted__nurbsToPoly3
+    3300018: pasted__nurbsToPoly3 1
+    3300020: pasted__nurbsToPoly4
+    3300022: pasted__nurbsToPoly4 1
+    3300024: pasted__pCube2
+    3300026: pasted__pCube2 1
+    3300028: pasted__pCylinder3
+    3300030: pasted__pCylinder3 1
+    3300032: pasted__pCylinder4
+    3300034: pasted__pCylinder4 1
+    3300036: pasted__pCylinder4 2
+    3300038: pasted__pCylinder4 3
+    3300040: pasted__pCylinder4 4
+    3300042: pasted__pCylinder4 5
+    3300044: pasted__polySurface1
+    3300046: pasted__polySurface1 1
+    3300048: pasted__polySurface2
+    3300050: pasted__polySurface2 1
+    3300052: pasted__polySurface3
+    3300054: pasted__polySurface3 1
+    3300056: pasted__polySurface4
+    3300058: pasted__polySurface4 1
+    3300060: pasted__pTorus1
+    3300062: pasted__pTorus1 1
+    3300064: pasted__pTorus2
+    3300066: pasted__pTorus2 1
+    3300068: pasted__pTorus3
+    3300070: pasted__pTorus3 1
+    3300072: pasted__pTorus4
+    3300074: pasted__pTorus4 1
+    3300076: pasted__pTorus5
+    3300078: pasted__pTorus5 1
+    3300080: pasted__pTorus5 2
+    3300082: pasted__pTorus5 3
+    3300084: pasted__pTorus5 4
+    3300086: pasted__pTorus5 5
+    3300088: pasted__pTorus8
+    3300090: pasted__pTorus8 1
+    3300092: pasted__pTorus8 2
+    3300094: pasted__pTorus8 3
+    3300096: pasted__pTorus8 4
+    3300098: pasted__pTorus8 5
+    3300100: pasted__pTorus9
+    3300102: pasted__pTorus9 1
+    3300104: pasted__pTorus9 2
+    3300106: pasted__pTorus9 3
+    3300108: pasted__pTorus9 4
+    3300110: pasted__pTorus9 5
+    3300112: pCube3
+    3300114: pCylinder3
+    3300116: pCylinder4
+    3300118: pCylinder5
+    3300120: pTorus1
+    3300122: pTorus1 1
+    4300000: pCube3
+    4300002: pasted__polySurface3
+    4300004: pasted__polySurface4
+    4300006: pasted__polySurface1
+    4300008: pasted__polySurface2
+    4300010: pasted__pTorus1
+    4300012: pasted__pTorus4
+    4300014: pasted__pTorus3
+    4300016: pasted__pTorus2
+    4300018: pasted__pTorus9
+    4300020: pasted__pTorus5
+    4300022: pasted__pCylinder4
+    4300024: pasted__pTorus8
+    4300026: pasted__pTorus9
+    4300028: pasted__pTorus5
+    4300030: pasted__pCylinder4
+    4300032: pasted__pTorus8
+    4300034: pasted__pTorus9
+    4300036: pasted__pTorus5
+    4300038: pasted__pCylinder4
+    4300040: pasted__pTorus8
+    4300042: pasted__polySurface3
+    4300044: pasted__polySurface4
+    4300046: pasted__polySurface1
+    4300048: pasted__polySurface2
+    4300050: pasted__pTorus1
+    4300052: pasted__pTorus4
+    4300054: pasted__pTorus3
+    4300056: pasted__pTorus2
+    4300058: pasted__pTorus9
+    4300060: pasted__pTorus5
+    4300062: pasted__pCylinder4
+    4300064: pasted__pTorus8
+    4300066: pasted__pTorus9
+    4300068: pasted__pTorus5
+    4300070: pasted__pCylinder4
+    4300072: pasted__pTorus8
+    4300074: pasted__pTorus9
+    4300076: pasted__pTorus5
+    4300078: pasted__pCylinder4
+    4300080: pasted__pTorus8
+    4300082: pCylinder3
+    4300084: pCylinder5
+    4300086: pasted__pCube2
+    4300088: pasted__nurbsToPoly3
+    4300090: pasted__nurbsToPoly2
+    4300092: pasted__nurbsToPoly4
+    4300094: pasted__pCube2
+    4300096: pasted__nurbsToPoly3
+    4300098: pasted__nurbsToPoly2
+    4300100: pasted__nurbsToPoly4
+    4300102: pasted__pCylinder3
+    4300104: nurbsToPoly7
+    4300106: pTorus1
+    4300108: nurbsToPoly6
+    4300110: nurbsToPoly3
+    4300112: pCylinder4
+    4300114: pasted__pCylinder3
+    4300116: nurbsToPoly7
+    4300118: pTorus1
+    4300120: nurbsToPoly6
+    4300122: nurbsToPoly3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

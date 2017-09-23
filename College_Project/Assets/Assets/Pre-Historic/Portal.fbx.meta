@@ -17,6 +17,9 @@ ModelImporter:
     100018: pasted__pCube2 1
     100020: pCylinder5
     100022: //RootNode
+    100024: group12
+    100026: pasted__nurbsToPoly4
+    100028: pasted__nurbsToPoly4 1
     400000: group4
     400002: group5
     400004: group5 1
@@ -29,6 +32,9 @@ ModelImporter:
     400018: pasted__pCube2 1
     400020: pCylinder5
     400022: //RootNode
+    400024: group12
+    400026: pasted__nurbsToPoly4
+    400028: pasted__nurbsToPoly4 1
     2300000: pasted__nurbsToPoly2
     2300002: pasted__nurbsToPoly2 1
     2300004: pasted__nurbsToPoly3
@@ -36,6 +42,8 @@ ModelImporter:
     2300008: pasted__pCube2
     2300010: pasted__pCube2 1
     2300012: pCylinder5
+    2300014: pasted__nurbsToPoly4
+    2300016: pasted__nurbsToPoly4 1
     3300000: pasted__nurbsToPoly2
     3300002: pasted__nurbsToPoly2 1
     3300004: pasted__nurbsToPoly3
@@ -43,6 +51,8 @@ ModelImporter:
     3300008: pasted__pCube2
     3300010: pasted__pCube2 1
     3300012: pCylinder5
+    3300014: pasted__nurbsToPoly4
+    3300016: pasted__nurbsToPoly4 1
     4300000: pCylinder5
     4300002: pasted__pCube2
     4300004: pasted__nurbsToPoly3
@@ -50,6 +60,8 @@ ModelImporter:
     4300008: pasted__pCube2
     4300010: pasted__nurbsToPoly3
     4300012: pasted__nurbsToPoly2
+    4300014: pasted__nurbsToPoly4
+    4300016: pasted__nurbsToPoly4
   materials:
     importMaterials: 1
     materialName: 0

@@ -91,6 +91,31 @@ ModelImporter:
     100166: pasted__pCube2
     100168: pasted__pCube2 1
     100170: PreHistoric_Portal
+    100172: curve2
+    100174: curve3
+    100176: curve4
+    100178: curve5
+    100180: group12
+    100182: group13
+    100184: group7
+    100186: group7 1
+    100188: group8
+    100190: group9
+    100192: loftedSurface1
+    100194: loftedSurface2
+    100196: Medieval_Portal
+    100198: nurbsToPoly3
+    100200: nurbsToPoly3 1
+    100202: nurbsToPoly6
+    100204: nurbsToPoly6 1
+    100206: nurbsToPoly7
+    100208: nurbsToPoly7 1
+    100210: pasted__nurbsToPoly4
+    100212: pasted__nurbsToPoly4 1
+    100214: pasted__pCylinder3 2
+    100216: pasted__pCylinder3 3
+    100218: pTorus1
+    100220: pTorus1 1
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -177,6 +202,31 @@ ModelImporter:
     400166: pasted__pCube2
     400168: pasted__pCube2 1
     400170: PreHistoric_Portal
+    400172: curve2
+    400174: curve3
+    400176: curve4
+    400178: curve5
+    400180: group12
+    400182: group13
+    400184: group7
+    400186: group7 1
+    400188: group8
+    400190: group9
+    400192: loftedSurface1
+    400194: loftedSurface2
+    400196: Medieval_Portal
+    400198: nurbsToPoly3
+    400200: nurbsToPoly3 1
+    400202: nurbsToPoly6
+    400204: nurbsToPoly6 1
+    400206: nurbsToPoly7
+    400208: nurbsToPoly7 1
+    400210: pasted__nurbsToPoly4
+    400212: pasted__nurbsToPoly4 1
+    400214: pasted__pCylinder3 2
+    400216: pasted__pCylinder3 3
+    400218: pTorus1
+    400220: pTorus1 1
     2300000: pCube3
     2300002: pCylinder3
     2300004: pasted__pCylinder4
@@ -227,6 +277,18 @@ ModelImporter:
     2300094: pasted__nurbsToPoly3 1
     2300096: pasted__pCube2
     2300098: pasted__pCube2 1
+    2300100: nurbsToPoly3
+    2300102: nurbsToPoly3 1
+    2300104: nurbsToPoly6
+    2300106: nurbsToPoly6 1
+    2300108: nurbsToPoly7
+    2300110: nurbsToPoly7 1
+    2300112: pasted__nurbsToPoly4
+    2300114: pasted__nurbsToPoly4 1
+    2300116: pasted__pCylinder3
+    2300118: pasted__pCylinder3 1
+    2300120: pTorus1
+    2300122: pTorus1 1
     3300000: pCube3
     3300002: pCylinder3
     3300004: pasted__pCylinder4
@@ -277,6 +339,18 @@ ModelImporter:
     3300094: pasted__nurbsToPoly3 1
     3300096: pasted__pCube2
     3300098: pasted__pCube2 1
+    3300100: nurbsToPoly3
+    3300102: nurbsToPoly3 1
+    3300104: nurbsToPoly6
+    3300106: nurbsToPoly6 1
+    3300108: nurbsToPoly7
+    3300110: nurbsToPoly7 1
+    3300112: pasted__nurbsToPoly4
+    3300114: pasted__nurbsToPoly4 1
+    3300116: pasted__pCylinder3
+    3300118: pasted__pCylinder3 1
+    3300120: pTorus1
+    3300122: pTorus1 1
     4300000: pCube3
     4300002: pCylinder3
     4300004: pCylinder4
@@ -327,6 +401,18 @@ ModelImporter:
     4300094: pasted__pCube2
     4300096: pasted__nurbsToPoly3
     4300098: pasted__nurbsToPoly2
+    4300100: pasted__nurbsToPoly4
+    4300102: pasted__nurbsToPoly4
+    4300104: pasted__pCylinder3
+    4300106: nurbsToPoly7
+    4300108: pTorus1
+    4300110: nurbsToPoly6
+    4300112: nurbsToPoly3
+    4300114: pasted__pCylinder3
+    4300116: nurbsToPoly7
+    4300118: pTorus1
+    4300120: nurbsToPoly6
+    4300122: nurbsToPoly3
     9500000: //RootNode
   materials:
     importMaterials: 1
