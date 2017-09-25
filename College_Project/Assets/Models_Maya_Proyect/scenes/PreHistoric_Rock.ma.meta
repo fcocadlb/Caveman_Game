@@ -8,15 +8,50 @@ ModelImporter:
     100000: //RootNode
     100002: pCube1
     100004: pCube2
+    100006: HouseRock_Roof
+    100008: HouseRock_Wall
+    100010: Rock8_LP:Rock8_LP
+    100012: Rock9_1_LP:Rock9_LP
+    100014: rock12_LP_popr:polySurface215
+    100016: rock14_LP:polySurface270
+    100018: AdditionalRock
     400000: //RootNode
     400002: pCube1
     400004: pCube2
+    400006: HouseRock_Roof
+    400008: HouseRock_Wall
+    400010: Rock8_LP:Rock8_LP
+    400012: Rock9_1_LP:Rock9_LP
+    400014: rock12_LP_popr:polySurface215
+    400016: rock14_LP:polySurface270
+    400018: AdditionalRock
     2300000: pCube1
     2300002: pCube2
+    2300004: HouseRock_Roof
+    2300006: HouseRock_Wall
+    2300008: Rock8_LP:Rock8_LP
+    2300010: Rock9_1_LP:Rock9_LP
+    2300012: rock12_LP_popr:polySurface215
+    2300014: rock14_LP:polySurface270
+    2300016: AdditionalRock
     3300000: pCube1
     3300002: pCube2
+    3300004: HouseRock_Roof
+    3300006: HouseRock_Wall
+    3300008: Rock8_LP:Rock8_LP
+    3300010: Rock9_1_LP:Rock9_LP
+    3300012: rock12_LP_popr:polySurface215
+    3300014: rock14_LP:polySurface270
+    3300016: AdditionalRock
     4300000: pCube1
     4300002: pCube2
+    4300004: HouseRock_Wall
+    4300006: HouseRock_Roof
+    4300008: Rock8_LP:Rock8_LP
+    4300010: Rock9_1_LP:Rock9_LP
+    4300012: rock12_LP_popr:polySurface215
+    4300014: rock14_LP:polySurface270
+    4300016: AdditionalRock
     7400000: Take 001
     9500000: //RootNode
   materials:

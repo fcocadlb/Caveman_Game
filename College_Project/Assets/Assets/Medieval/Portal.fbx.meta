@@ -13,6 +13,21 @@ ModelImporter:
     100010: //RootNode
     100012: transform1
     100014: transform2
+    100016: group13
+    100018: group7
+    100020: group7 1
+    100022: group9
+    100024: nurbsToPoly3
+    100026: nurbsToPoly3 1
+    100028: nurbsToPoly6
+    100030: nurbsToPoly6 1
+    100032: nurbsToPoly7
+    100034: nurbsToPoly7 1
+    100036: pasted__pCylinder3
+    100038: pasted__pCylinder3 1
+    100040: pCylinder4
+    100042: pTorus1
+    100044: pTorus1 1
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -21,15 +36,63 @@ ModelImporter:
     400010: //RootNode
     400012: transform1
     400014: transform2
+    400016: group13
+    400018: group7
+    400020: group7 1
+    400022: group9
+    400024: nurbsToPoly3
+    400026: nurbsToPoly3 1
+    400028: nurbsToPoly6
+    400030: nurbsToPoly6 1
+    400032: nurbsToPoly7
+    400034: nurbsToPoly7 1
+    400036: pasted__pCylinder3
+    400038: pasted__pCylinder3 1
+    400040: pCylinder4
+    400042: pTorus1
+    400044: pTorus1 1
     2300000: pCube3
     2300002: pCylinder1
     2300004: pCylinder2
+    2300006: nurbsToPoly3
+    2300008: nurbsToPoly3 1
+    2300010: nurbsToPoly6
+    2300012: nurbsToPoly6 1
+    2300014: nurbsToPoly7
+    2300016: nurbsToPoly7 1
+    2300018: pasted__pCylinder3
+    2300020: pasted__pCylinder3 1
+    2300022: pCylinder4
+    2300024: pTorus1
+    2300026: pTorus1 1
     3300000: pCube3
     3300002: pCylinder1
     3300004: pCylinder2
+    3300006: nurbsToPoly3
+    3300008: nurbsToPoly3 1
+    3300010: nurbsToPoly6
+    3300012: nurbsToPoly6 1
+    3300014: nurbsToPoly7
+    3300016: nurbsToPoly7 1
+    3300018: pasted__pCylinder3
+    3300020: pasted__pCylinder3 1
+    3300022: pCylinder4
+    3300024: pTorus1
+    3300026: pTorus1 1
     4300000: pCube3
     4300002: pCylinder1
     4300004: pCylinder2
+    4300006: pasted__pCylinder3
+    4300008: nurbsToPoly7
+    4300010: pTorus1
+    4300012: nurbsToPoly6
+    4300014: nurbsToPoly3
+    4300016: pCylinder4
+    4300018: pasted__pCylinder3
+    4300020: nurbsToPoly7
+    4300022: pTorus1
+    4300024: nurbsToPoly6
+    4300026: nurbsToPoly3
   materials:
     importMaterials: 1
     materialName: 0
