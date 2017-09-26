@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c945521eb29f0db42b15a72a5cf7ad7b
-timeCreated: 1502911309
+guid: c7100579b6c5efa4d95f6aa4417aaa18
+timeCreated: 1506377755
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -129,6 +129,10 @@ ModelImporter:
     100242: Spine
     100244: Spine1
     100246: Spine2
+    100248: pCube3
+    100250: pCube4
+    100252: pSphere1
+    100254: pSphere2
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -253,13 +257,29 @@ ModelImporter:
     400242: Spine
     400244: Spine1
     400246: Spine2
+    400248: pCube3
+    400250: pCube4
+    400252: pSphere1
+    400254: pSphere2
     2000000: left
     2300000: pCube2
-    2300002: pCylinder6
+    2300002: pCube3
+    2300004: pCube4
+    2300006: pCylinder6
+    2300008: pSphere1
+    2300010: pSphere2
     3300000: pCube2
-    3300002: pCylinder6
+    3300002: pCube3
+    3300004: pCube4
+    3300006: pCylinder6
+    3300008: pSphere1
+    3300010: pSphere2
     4300000: pCube2
     4300002: pCylinder6
+    4300004: pSphere1
+    4300006: pCube3
+    4300008: pSphere2
+    4300010: pCube4
     9500000: //RootNode
     13700000: pCylinder6
   materials:
