@@ -133,6 +133,8 @@ ModelImporter:
     100250: pCube4
     100252: pSphere1
     100254: pSphere2
+    100256: pSphere3
+    100258: pSphere5
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -261,6 +263,8 @@ ModelImporter:
     400250: pCube4
     400252: pSphere1
     400254: pSphere2
+    400256: pSphere3
+    400258: pSphere5
     2000000: left
     2300000: pCube2
     2300002: pCube3
@@ -268,18 +272,21 @@ ModelImporter:
     2300006: pCylinder6
     2300008: pSphere1
     2300010: pSphere2
+    2300012: pSphere5
     3300000: pCube2
     3300002: pCube3
     3300004: pCube4
     3300006: pCylinder6
     3300008: pSphere1
     3300010: pSphere2
+    3300012: pSphere5
     4300000: pCube2
     4300002: pCylinder6
     4300004: pSphere1
     4300006: pCube3
     4300008: pSphere2
     4300010: pCube4
+    4300012: pSphere5
     9500000: //RootNode
     13700000: pCylinder6
   materials:
