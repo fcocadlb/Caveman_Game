@@ -1,90 +1,44 @@
 fileFormatVersion: 2
-guid: df4770536a289dc408e48ccd208dc2ae
-timeCreated: 1506393042
+guid: b035f05064f2f6f4cad00d62a4d06113
+timeCreated: 1506455859
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: Babosa
-    100002: //RootNode
+    100000: //RootNode
+    100002: Babosa
     100004: imagePlane1
     100006: imagePlane2
     100008: left
     100010: pCube2
     100012: pCube3
     100014: pCylinder6
-    100016: polySurface1
-    100018: polySurface2
-    100020: polySurface3
-    100022: polySurface4
-    100024: polySurface4 1
-    100026: polySurface5
-    100028: polySurface6
-    100030: pSphere2
-    100032: transform1
-    100034: transform2
-    100036: transform3
-    100038: transform4
-    100040: transform5
-    100042: transform6
-    100044: transform7
-    100046: pCube4
-    100048: Shooter
-    100050: polySurface2 1
-    400000: Babosa
-    400002: //RootNode
+    100016: Shooter
+    400000: //RootNode
+    400002: Babosa
     400004: imagePlane1
     400006: imagePlane2
     400008: left
     400010: pCube2
     400012: pCube3
     400014: pCylinder6
-    400016: polySurface1
-    400018: polySurface2
-    400020: polySurface3
-    400022: polySurface4
-    400024: polySurface4 1
-    400026: polySurface5
-    400028: polySurface6
-    400030: pSphere2
-    400032: transform1
-    400034: transform2
-    400036: transform3
-    400038: transform4
-    400040: transform5
-    400042: transform6
-    400044: transform7
-    400046: pCube4
-    400048: Shooter
-    400050: polySurface2 1
+    400016: Shooter
     2000000: left
-    2300000: pCube2
-    2300002: pCube3
-    2300004: pCylinder6
-    2300006: polySurface6
-    2300008: pSphere2
-    2300010: Babosa
-    2300012: pCube4
-    2300014: Shooter
-    2300016: polySurface2
-    3300000: pCube2
-    3300002: pCube3
-    3300004: pCylinder6
-    3300006: polySurface6
-    3300008: pSphere2
-    3300010: Babosa
-    3300012: pCube4
-    3300014: Shooter
-    3300016: polySurface2
+    2300000: Babosa
+    2300002: pCube2
+    2300004: pCube3
+    2300006: pCylinder6
+    2300008: Shooter
+    3300000: Babosa
+    3300002: pCube2
+    3300004: pCube3
+    3300006: pCylinder6
+    3300008: Shooter
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
-    4300006: pSphere2
-    4300008: polySurface6
-    4300010: Babosa
-    4300012: pCube4
-    4300014: Shooter
-    4300016: polySurface2
+    4300006: Babosa
+    4300008: Shooter
     9500000: //RootNode
   materials:
     importMaterials: 1
