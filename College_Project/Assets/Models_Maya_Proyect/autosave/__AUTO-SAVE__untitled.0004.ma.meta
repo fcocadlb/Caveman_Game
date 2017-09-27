@@ -14,6 +14,15 @@ ModelImporter:
     100012: pCube3
     100014: pCylinder6
     100016: Shooter
+    100018: group
+    100020: pasted__pSphere2
+    100022: pasted__pSphere2 1
+    100024: pCube4
+    100026: polySurface1
+    100028: polySurface2
+    100030: transform1
+    100032: transform2
+    100034: transform3
     400000: //RootNode
     400002: Babosa
     400004: imagePlane1
@@ -23,22 +32,37 @@ ModelImporter:
     400012: pCube3
     400014: pCylinder6
     400016: Shooter
+    400018: group
+    400020: pasted__pSphere2
+    400022: pasted__pSphere2 1
+    400024: pCube4
+    400026: polySurface1
+    400028: polySurface2
+    400030: transform1
+    400032: transform2
+    400034: transform3
     2000000: left
     2300000: Babosa
     2300002: pCube2
     2300004: pCube3
     2300006: pCylinder6
     2300008: Shooter
+    2300010: polySurface1
+    2300012: polySurface2
     3300000: Babosa
     3300002: pCube2
     3300004: pCube3
     3300006: pCylinder6
     3300008: Shooter
+    3300010: polySurface1
+    3300012: polySurface2
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
     4300006: Babosa
     4300008: Shooter
+    4300010: polySurface1
+    4300012: polySurface2
     9500000: //RootNode
   materials:
     importMaterials: 1
