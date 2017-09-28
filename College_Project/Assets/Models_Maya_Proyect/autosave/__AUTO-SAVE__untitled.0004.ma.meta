@@ -146,6 +146,16 @@ ModelImporter:
     100276: Spine
     100278: Spine1
     100280: Spine2
+    100282: back
+    100284: curve1
+    100286: curve2
+    100288: Flying
+    100290: group1
+    100292: pCone1
+    100294: pCone2
+    100296: pCone3
+    100298: pCube1
+    100300: pCylinder1
     400000: //RootNode
     400002: Babosa
     400004: imagePlane1
@@ -287,7 +297,18 @@ ModelImporter:
     400276: Spine
     400278: Spine1
     400280: Spine2
+    400282: back
+    400284: curve1
+    400286: curve2
+    400288: Flying
+    400290: group1
+    400292: pCone1
+    400294: pCone2
+    400296: pCone3
+    400298: pCube1
+    400300: pCylinder1
     2000000: left
+    2000002: back
     2300000: Babosa
     2300002: pCube2
     2300004: pCube3
@@ -299,6 +320,13 @@ ModelImporter:
     2300016: pCube5
     2300018: Spikes
     2300020: Trico
+    2300022: BaseModel
+    2300024: Flying
+    2300026: pCone1
+    2300028: pCone2
+    2300030: pCone3
+    2300032: pCube1
+    2300034: pCylinder1
     3300000: Babosa
     3300002: pCube2
     3300004: pCube3
@@ -310,6 +338,13 @@ ModelImporter:
     3300016: pCube5
     3300018: Spikes
     3300020: Trico
+    3300022: BaseModel
+    3300024: Flying
+    3300026: pCone1
+    3300028: pCone2
+    3300030: pCone3
+    3300032: pCube1
+    3300034: pCylinder1
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -321,6 +356,14 @@ ModelImporter:
     4300016: Trico
     4300018: BaseModel1
     4300020: pCube5
+    4300022: Flying
+    4300024: BaseModel
+    4300026: pCone3
+    4300028: pCone2
+    4300030: pCone1
+    4300032: pCube1
+    4300034: pCylinder1
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
