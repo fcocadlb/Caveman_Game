@@ -156,6 +156,12 @@ ModelImporter:
     100296: pCone3
     100298: pCube1
     100300: pCylinder1
+    100302: BaseModel 1
+    100304: group2
+    100306: pCone5
+    100308: pSphere2
+    100310: pSphere3
+    100312: pSphere5
     400000: //RootNode
     400002: Babosa
     400004: imagePlane1
@@ -307,6 +313,12 @@ ModelImporter:
     400296: pCone3
     400298: pCube1
     400300: pCylinder1
+    400302: BaseModel 1
+    400304: group2
+    400306: pCone5
+    400308: pSphere2
+    400310: pSphere3
+    400312: pSphere5
     2000000: left
     2000002: back
     2300000: Babosa
@@ -327,6 +339,9 @@ ModelImporter:
     2300030: pCone3
     2300032: pCube1
     2300034: pCylinder1
+    2300036: pCone5
+    2300038: pSphere2
+    2300040: pSphere5
     3300000: Babosa
     3300002: pCube2
     3300004: pCube3
@@ -345,6 +360,9 @@ ModelImporter:
     3300030: pCone3
     3300032: pCube1
     3300034: pCylinder1
+    3300036: pCone5
+    3300038: pSphere2
+    3300040: pSphere5
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -363,6 +381,9 @@ ModelImporter:
     4300030: pCone1
     4300032: pCube1
     4300034: pCylinder1
+    4300036: pCone5
+    4300038: pSphere2
+    4300040: pSphere5
     7400000: Take 001
     9500000: //RootNode
   materials:

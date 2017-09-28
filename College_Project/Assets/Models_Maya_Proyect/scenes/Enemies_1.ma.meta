@@ -52,6 +52,22 @@ ModelImporter:
     100088: pCone5
     100090: pCube1
     100092: pCylinder1
+    100094: pCone6
+    100096: pCone7
+    100098: pCylinder2
+    100100: polySurface1 1
+    100102: polySurface6 1
+    100104: polySurface7
+    100106: polySurface8
+    100108: transform10
+    100110: transform11
+    100112: transform12
+    100114: transform13
+    100116: transform14
+    100118: transform15
+    100120: transform8
+    100122: transform9
+    100124: Beater
     400000: Babosa
     400002: //RootNode
     400004: imagePlane1
@@ -99,6 +115,22 @@ ModelImporter:
     400088: pCone5
     400090: pCube1
     400092: pCylinder1
+    400094: pCone6
+    400096: pCone7
+    400098: pCylinder2
+    400100: polySurface1 1
+    400102: polySurface6 1
+    400104: polySurface7
+    400106: polySurface8
+    400108: transform10
+    400110: transform11
+    400112: transform12
+    400114: transform13
+    400116: transform14
+    400118: transform15
+    400120: transform8
+    400122: transform9
+    400124: Beater
     2000000: left
     2000002: back
     2300000: pCube2
@@ -127,6 +159,7 @@ ModelImporter:
     2300046: pCone5
     2300048: pCube1
     2300050: pCylinder1
+    2300052: Beater
     3300000: pCube2
     3300002: pCube3
     3300004: pCylinder6
@@ -153,6 +186,7 @@ ModelImporter:
     3300046: pCone5
     3300048: pCube1
     3300050: pCylinder1
+    3300052: Beater
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -179,6 +213,7 @@ ModelImporter:
     4300046: pCylinder1
     4300048: pCone5
     4300050: pCube1
+    4300052: Beater
     7400000: Take 001
     9500000: //RootNode
   materials:
