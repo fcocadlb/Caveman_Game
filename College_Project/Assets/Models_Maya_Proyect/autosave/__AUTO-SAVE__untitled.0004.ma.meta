@@ -23,6 +23,11 @@ ModelImporter:
     100030: transform1
     100032: transform2
     100034: transform3
+    100036: BaseModel
+    100038: BaseModel1
+    100040: pCube5
+    100042: Spikes
+    100044: Trico
     400000: //RootNode
     400002: Babosa
     400004: imagePlane1
@@ -41,6 +46,11 @@ ModelImporter:
     400030: transform1
     400032: transform2
     400034: transform3
+    400036: BaseModel
+    400038: BaseModel1
+    400040: pCube5
+    400042: Spikes
+    400044: Trico
     2000000: left
     2300000: Babosa
     2300002: pCube2
@@ -49,6 +59,10 @@ ModelImporter:
     2300008: Shooter
     2300010: polySurface1
     2300012: polySurface2
+    2300014: BaseModel1
+    2300016: pCube5
+    2300018: Spikes
+    2300020: Trico
     3300000: Babosa
     3300002: pCube2
     3300004: pCube3
@@ -56,6 +70,10 @@ ModelImporter:
     3300008: Shooter
     3300010: polySurface1
     3300012: polySurface2
+    3300014: BaseModel1
+    3300016: pCube5
+    3300018: Spikes
+    3300020: Trico
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -63,6 +81,10 @@ ModelImporter:
     4300008: Shooter
     4300010: polySurface1
     4300012: polySurface2
+    4300014: Spikes
+    4300016: Trico
+    4300018: BaseModel1
+    4300020: pCube5
     9500000: //RootNode
   materials:
     importMaterials: 1

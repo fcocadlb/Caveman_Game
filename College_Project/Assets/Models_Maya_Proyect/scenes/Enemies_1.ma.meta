@@ -37,6 +37,12 @@ ModelImporter:
     100058: pCube5
     100060: pCylinder7
     100062: group1
+    100064: group2
+    100066: group3
+    100068: pCylinder7 1
+    100070: pCylinder8
+    100072: Trico
+    100074: pCube6
     400000: Babosa
     400002: //RootNode
     400004: imagePlane1
@@ -69,6 +75,12 @@ ModelImporter:
     400058: pCube5
     400060: pCylinder7
     400062: group1
+    400064: group2
+    400066: group3
+    400068: pCylinder7 1
+    400070: pCylinder8
+    400072: Trico
+    400074: pCube6
     2000000: left
     2300000: pCube2
     2300002: pCube3
@@ -88,6 +100,8 @@ ModelImporter:
     2300030: polySurface1
     2300032: polySurface4
     2300034: polySurface5
+    2300036: Trico
+    2300038: pCube6
     3300000: pCube2
     3300002: pCube3
     3300004: pCylinder6
@@ -106,6 +120,8 @@ ModelImporter:
     3300030: polySurface1
     3300032: polySurface4
     3300034: polySurface5
+    3300036: Trico
+    3300038: pCube6
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -124,6 +140,8 @@ ModelImporter:
     4300030: polySurface1
     4300032: polySurface5
     4300034: polySurface4
+    4300036: Trico
+    4300038: pCube6
     9500000: //RootNode
   materials:
     importMaterials: 1
