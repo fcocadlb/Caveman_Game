@@ -68,6 +68,113 @@ ModelImporter:
     100120: transform8
     100122: transform9
     100124: Beater
+    100126: Beater_Medieval
+    100128: Beater_Pre_Historic
+    100130: Beater_Sci_Fi
+    100132: Flying_Medieval
+    100134: Flying_Pre_Historic
+    100136: Flying_Sci_Fi
+    100138: group
+    100140: Mud_Medieval
+    100142: Mud_Pre_Historic
+    100144: Mud_Sci_Fi
+    100146: pasted__group1
+    100148: pasted__group1 1
+    100150: pasted__group1 2
+    100152: pasted__group2
+    100154: pasted__group2 1
+    100156: pasted__group2 2
+    100158: pasted__group3
+    100160: pasted__group3 1
+    100162: pasted__group3 2
+    100164: pasted__group4
+    100166: pasted__group4 1
+    100168: pasted__group4 2
+    100170: pasted__group5
+    100172: pasted__group5 1
+    100174: pasted__group5 2
+    100176: pasted__group6
+    100178: pasted__group6 1
+    100180: pasted__group6 2
+    100182: pasted__group7
+    100184: pasted__group7 1
+    100186: pasted__group7 2
+    100188: pasted__pCylinder2
+    100190: pasted__pCylinder2 1
+    100192: pasted__pCylinder2 2
+    100194: pasted__pCylinder3
+    100196: pasted__pCylinder3 1
+    100198: pasted__pCylinder3 2
+    100200: pasted__pCylinder4
+    100202: pasted__pCylinder4 1
+    100204: pasted__pCylinder4 2
+    100206: pasted__pCylinder4 3
+    100208: pasted__pCylinder4 4
+    100210: pasted__pCylinder4 5
+    100212: pasted__pCylinder4 6
+    100214: pasted__pCylinder4 7
+    100216: pasted__pCylinder4 8
+    100218: pasted__polySurface1
+    100220: pasted__polySurface1 1
+    100222: pasted__polySurface1 2
+    100224: pasted__polySurface2
+    100226: pasted__polySurface2 1
+    100228: pasted__polySurface2 2
+    100230: pasted__polySurface3
+    100232: pasted__polySurface3 1
+    100234: pasted__polySurface3 2
+    100236: pasted__polySurface4
+    100238: pasted__polySurface4 1
+    100240: pasted__polySurface4 2
+    100242: pasted__pTorus1
+    100244: pasted__pTorus1 1
+    100246: pasted__pTorus1 2
+    100248: pasted__pTorus2
+    100250: pasted__pTorus2 1
+    100252: pasted__pTorus2 2
+    100254: pasted__pTorus3
+    100256: pasted__pTorus3 1
+    100258: pasted__pTorus3 2
+    100260: pasted__pTorus4
+    100262: pasted__pTorus4 1
+    100264: pasted__pTorus4 2
+    100266: pasted__pTorus5
+    100268: pasted__pTorus5 1
+    100270: pasted__pTorus5 2
+    100272: pasted__pTorus5 3
+    100274: pasted__pTorus5 4
+    100276: pasted__pTorus5 5
+    100278: pasted__pTorus5 6
+    100280: pasted__pTorus5 7
+    100282: pasted__pTorus5 8
+    100284: pasted__pTorus8
+    100286: pasted__pTorus8 1
+    100288: pasted__pTorus8 2
+    100290: pasted__pTorus8 3
+    100292: pasted__pTorus8 4
+    100294: pasted__pTorus8 5
+    100296: pasted__pTorus8 6
+    100298: pasted__pTorus8 7
+    100300: pasted__pTorus8 8
+    100302: pasted__pTorus9
+    100304: pasted__pTorus9 1
+    100306: pasted__pTorus9 2
+    100308: pasted__pTorus9 3
+    100310: pasted__pTorus9 4
+    100312: pasted__pTorus9 5
+    100314: pasted__pTorus9 6
+    100316: pasted__pTorus9 7
+    100318: pasted__pTorus9 8
+    100320: Shooter_Medieval
+    100322: Shooter_Pre_Historic
+    100324: Shooter_Sci_Fi
+    100326: Spike
+    100328: Spikes_Medieval
+    100330: Spikes_Pre_Historic
+    100332: Spikes_Sci_Fi
+    100334: Trico_Medieval
+    100336: Trico_Pre_Historic
+    100338: Trico_Sci_Fi
     400000: Babosa
     400002: //RootNode
     400004: imagePlane1
@@ -131,6 +238,113 @@ ModelImporter:
     400120: transform8
     400122: transform9
     400124: Beater
+    400126: Beater_Medieval
+    400128: Beater_Pre_Historic
+    400130: Beater_Sci_Fi
+    400132: Flying_Medieval
+    400134: Flying_Pre_Historic
+    400136: Flying_Sci_Fi
+    400138: group
+    400140: Mud_Medieval
+    400142: Mud_Pre_Historic
+    400144: Mud_Sci_Fi
+    400146: pasted__group1
+    400148: pasted__group1 1
+    400150: pasted__group1 2
+    400152: pasted__group2
+    400154: pasted__group2 1
+    400156: pasted__group2 2
+    400158: pasted__group3
+    400160: pasted__group3 1
+    400162: pasted__group3 2
+    400164: pasted__group4
+    400166: pasted__group4 1
+    400168: pasted__group4 2
+    400170: pasted__group5
+    400172: pasted__group5 1
+    400174: pasted__group5 2
+    400176: pasted__group6
+    400178: pasted__group6 1
+    400180: pasted__group6 2
+    400182: pasted__group7
+    400184: pasted__group7 1
+    400186: pasted__group7 2
+    400188: pasted__pCylinder2
+    400190: pasted__pCylinder2 1
+    400192: pasted__pCylinder2 2
+    400194: pasted__pCylinder3
+    400196: pasted__pCylinder3 1
+    400198: pasted__pCylinder3 2
+    400200: pasted__pCylinder4
+    400202: pasted__pCylinder4 1
+    400204: pasted__pCylinder4 2
+    400206: pasted__pCylinder4 3
+    400208: pasted__pCylinder4 4
+    400210: pasted__pCylinder4 5
+    400212: pasted__pCylinder4 6
+    400214: pasted__pCylinder4 7
+    400216: pasted__pCylinder4 8
+    400218: pasted__polySurface1
+    400220: pasted__polySurface1 1
+    400222: pasted__polySurface1 2
+    400224: pasted__polySurface2
+    400226: pasted__polySurface2 1
+    400228: pasted__polySurface2 2
+    400230: pasted__polySurface3
+    400232: pasted__polySurface3 1
+    400234: pasted__polySurface3 2
+    400236: pasted__polySurface4
+    400238: pasted__polySurface4 1
+    400240: pasted__polySurface4 2
+    400242: pasted__pTorus1
+    400244: pasted__pTorus1 1
+    400246: pasted__pTorus1 2
+    400248: pasted__pTorus2
+    400250: pasted__pTorus2 1
+    400252: pasted__pTorus2 2
+    400254: pasted__pTorus3
+    400256: pasted__pTorus3 1
+    400258: pasted__pTorus3 2
+    400260: pasted__pTorus4
+    400262: pasted__pTorus4 1
+    400264: pasted__pTorus4 2
+    400266: pasted__pTorus5
+    400268: pasted__pTorus5 1
+    400270: pasted__pTorus5 2
+    400272: pasted__pTorus5 3
+    400274: pasted__pTorus5 4
+    400276: pasted__pTorus5 5
+    400278: pasted__pTorus5 6
+    400280: pasted__pTorus5 7
+    400282: pasted__pTorus5 8
+    400284: pasted__pTorus8
+    400286: pasted__pTorus8 1
+    400288: pasted__pTorus8 2
+    400290: pasted__pTorus8 3
+    400292: pasted__pTorus8 4
+    400294: pasted__pTorus8 5
+    400296: pasted__pTorus8 6
+    400298: pasted__pTorus8 7
+    400300: pasted__pTorus8 8
+    400302: pasted__pTorus9
+    400304: pasted__pTorus9 1
+    400306: pasted__pTorus9 2
+    400308: pasted__pTorus9 3
+    400310: pasted__pTorus9 4
+    400312: pasted__pTorus9 5
+    400314: pasted__pTorus9 6
+    400316: pasted__pTorus9 7
+    400318: pasted__pTorus9 8
+    400320: Shooter_Medieval
+    400322: Shooter_Pre_Historic
+    400324: Shooter_Sci_Fi
+    400326: Spike
+    400328: Spikes_Medieval
+    400330: Spikes_Pre_Historic
+    400332: Spikes_Sci_Fi
+    400334: Trico_Medieval
+    400336: Trico_Pre_Historic
+    400338: Trico_Sci_Fi
     2000000: left
     2000002: back
     2300000: pCube2
@@ -160,6 +374,85 @@ ModelImporter:
     2300048: pCube1
     2300050: pCylinder1
     2300052: Beater
+    2300054: Beater_Medieval
+    2300056: Beater_Pre_Historic
+    2300058: Beater_Sci_Fi
+    2300060: Flying_Medieval
+    2300062: Flying_Pre_Historic
+    2300064: Flying_Sci_Fi
+    2300066: Mud_Medieval
+    2300068: Mud_Pre_Historic
+    2300070: Mud_Sci_Fi
+    2300072: pasted__pCylinder4
+    2300074: pasted__pCylinder4 1
+    2300076: pasted__pCylinder4 2
+    2300078: pasted__pCylinder4 3
+    2300080: pasted__pCylinder4 4
+    2300082: pasted__pCylinder4 5
+    2300084: pasted__pCylinder4 6
+    2300086: pasted__pCylinder4 7
+    2300088: pasted__pCylinder4 8
+    2300090: pasted__polySurface1
+    2300092: pasted__polySurface1 1
+    2300094: pasted__polySurface1 2
+    2300096: pasted__polySurface2
+    2300098: pasted__polySurface2 1
+    2300100: pasted__polySurface2 2
+    2300102: pasted__polySurface3
+    2300104: pasted__polySurface3 1
+    2300106: pasted__polySurface3 2
+    2300108: pasted__polySurface4
+    2300110: pasted__polySurface4 1
+    2300112: pasted__polySurface4 2
+    2300114: pasted__pTorus1
+    2300116: pasted__pTorus1 1
+    2300118: pasted__pTorus1 2
+    2300120: pasted__pTorus2
+    2300122: pasted__pTorus2 1
+    2300124: pasted__pTorus2 2
+    2300126: pasted__pTorus3
+    2300128: pasted__pTorus3 1
+    2300130: pasted__pTorus3 2
+    2300132: pasted__pTorus4
+    2300134: pasted__pTorus4 1
+    2300136: pasted__pTorus4 2
+    2300138: pasted__pTorus5
+    2300140: pasted__pTorus5 1
+    2300142: pasted__pTorus5 2
+    2300144: pasted__pTorus5 3
+    2300146: pasted__pTorus5 4
+    2300148: pasted__pTorus5 5
+    2300150: pasted__pTorus5 6
+    2300152: pasted__pTorus5 7
+    2300154: pasted__pTorus5 8
+    2300156: pasted__pTorus8
+    2300158: pasted__pTorus8 1
+    2300160: pasted__pTorus8 2
+    2300162: pasted__pTorus8 3
+    2300164: pasted__pTorus8 4
+    2300166: pasted__pTorus8 5
+    2300168: pasted__pTorus8 6
+    2300170: pasted__pTorus8 7
+    2300172: pasted__pTorus8 8
+    2300174: pasted__pTorus9
+    2300176: pasted__pTorus9 1
+    2300178: pasted__pTorus9 2
+    2300180: pasted__pTorus9 3
+    2300182: pasted__pTorus9 4
+    2300184: pasted__pTorus9 5
+    2300186: pasted__pTorus9 6
+    2300188: pasted__pTorus9 7
+    2300190: pasted__pTorus9 8
+    2300192: Shooter_Medieval
+    2300194: Shooter_Pre_Historic
+    2300196: Shooter_Sci_Fi
+    2300198: Spike
+    2300200: Spikes_Medieval
+    2300202: Spikes_Pre_Historic
+    2300204: Spikes_Sci_Fi
+    2300206: Trico_Medieval
+    2300208: Trico_Pre_Historic
+    2300210: Trico_Sci_Fi
     3300000: pCube2
     3300002: pCube3
     3300004: pCylinder6
@@ -187,6 +480,85 @@ ModelImporter:
     3300048: pCube1
     3300050: pCylinder1
     3300052: Beater
+    3300054: Beater_Medieval
+    3300056: Beater_Pre_Historic
+    3300058: Beater_Sci_Fi
+    3300060: Flying_Medieval
+    3300062: Flying_Pre_Historic
+    3300064: Flying_Sci_Fi
+    3300066: Mud_Medieval
+    3300068: Mud_Pre_Historic
+    3300070: Mud_Sci_Fi
+    3300072: pasted__pCylinder4
+    3300074: pasted__pCylinder4 1
+    3300076: pasted__pCylinder4 2
+    3300078: pasted__pCylinder4 3
+    3300080: pasted__pCylinder4 4
+    3300082: pasted__pCylinder4 5
+    3300084: pasted__pCylinder4 6
+    3300086: pasted__pCylinder4 7
+    3300088: pasted__pCylinder4 8
+    3300090: pasted__polySurface1
+    3300092: pasted__polySurface1 1
+    3300094: pasted__polySurface1 2
+    3300096: pasted__polySurface2
+    3300098: pasted__polySurface2 1
+    3300100: pasted__polySurface2 2
+    3300102: pasted__polySurface3
+    3300104: pasted__polySurface3 1
+    3300106: pasted__polySurface3 2
+    3300108: pasted__polySurface4
+    3300110: pasted__polySurface4 1
+    3300112: pasted__polySurface4 2
+    3300114: pasted__pTorus1
+    3300116: pasted__pTorus1 1
+    3300118: pasted__pTorus1 2
+    3300120: pasted__pTorus2
+    3300122: pasted__pTorus2 1
+    3300124: pasted__pTorus2 2
+    3300126: pasted__pTorus3
+    3300128: pasted__pTorus3 1
+    3300130: pasted__pTorus3 2
+    3300132: pasted__pTorus4
+    3300134: pasted__pTorus4 1
+    3300136: pasted__pTorus4 2
+    3300138: pasted__pTorus5
+    3300140: pasted__pTorus5 1
+    3300142: pasted__pTorus5 2
+    3300144: pasted__pTorus5 3
+    3300146: pasted__pTorus5 4
+    3300148: pasted__pTorus5 5
+    3300150: pasted__pTorus5 6
+    3300152: pasted__pTorus5 7
+    3300154: pasted__pTorus5 8
+    3300156: pasted__pTorus8
+    3300158: pasted__pTorus8 1
+    3300160: pasted__pTorus8 2
+    3300162: pasted__pTorus8 3
+    3300164: pasted__pTorus8 4
+    3300166: pasted__pTorus8 5
+    3300168: pasted__pTorus8 6
+    3300170: pasted__pTorus8 7
+    3300172: pasted__pTorus8 8
+    3300174: pasted__pTorus9
+    3300176: pasted__pTorus9 1
+    3300178: pasted__pTorus9 2
+    3300180: pasted__pTorus9 3
+    3300182: pasted__pTorus9 4
+    3300184: pasted__pTorus9 5
+    3300186: pasted__pTorus9 6
+    3300188: pasted__pTorus9 7
+    3300190: pasted__pTorus9 8
+    3300192: Shooter_Medieval
+    3300194: Shooter_Pre_Historic
+    3300196: Shooter_Sci_Fi
+    3300198: Spike
+    3300200: Spikes_Medieval
+    3300202: Spikes_Pre_Historic
+    3300204: Spikes_Sci_Fi
+    3300206: Trico_Medieval
+    3300208: Trico_Pre_Historic
+    3300210: Trico_Sci_Fi
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -214,6 +586,85 @@ ModelImporter:
     4300048: pCone5
     4300050: pCube1
     4300052: Beater
+    4300054: Mud_Medieval
+    4300056: Mud_Sci_Fi
+    4300058: Mud_Pre_Historic
+    4300060: Shooter_Medieval
+    4300062: Shooter_Sci_Fi
+    4300064: pasted__polySurface3
+    4300066: pasted__polySurface4
+    4300068: pasted__polySurface1
+    4300070: pasted__polySurface2
+    4300072: pasted__pTorus1
+    4300074: pasted__pTorus4
+    4300076: pasted__pTorus3
+    4300078: pasted__pTorus2
+    4300080: pasted__pTorus9
+    4300082: pasted__pTorus5
+    4300084: pasted__pCylinder4
+    4300086: pasted__pTorus8
+    4300088: pasted__pTorus9
+    4300090: pasted__pTorus5
+    4300092: pasted__pCylinder4
+    4300094: pasted__pTorus8
+    4300096: pasted__pTorus9
+    4300098: pasted__pTorus5
+    4300100: pasted__pCylinder4
+    4300102: pasted__pTorus8
+    4300104: Shooter_Pre_Historic
+    4300106: Spikes_Medieval
+    4300108: Spikes_Sci_Fi
+    4300110: Spikes_Pre_Historic
+    4300112: Trico_Medieval
+    4300114: Trico_Sci_Fi
+    4300116: pasted__polySurface3
+    4300118: pasted__polySurface4
+    4300120: pasted__polySurface1
+    4300122: pasted__polySurface2
+    4300124: pasted__pTorus1
+    4300126: pasted__pTorus4
+    4300128: pasted__pTorus3
+    4300130: pasted__pTorus2
+    4300132: pasted__pTorus9
+    4300134: pasted__pTorus5
+    4300136: pasted__pCylinder4
+    4300138: pasted__pTorus8
+    4300140: pasted__pTorus9
+    4300142: pasted__pTorus5
+    4300144: pasted__pCylinder4
+    4300146: pasted__pTorus8
+    4300148: pasted__pTorus9
+    4300150: pasted__pTorus5
+    4300152: pasted__pCylinder4
+    4300154: pasted__pTorus8
+    4300156: Trico_Pre_Historic
+    4300158: Flying_Medieval
+    4300160: Flying_Sci_Fi
+    4300162: Flying_Pre_Historic
+    4300164: Beater_Medieval
+    4300166: Beater_Sci_Fi
+    4300168: pasted__polySurface3
+    4300170: pasted__polySurface4
+    4300172: pasted__polySurface1
+    4300174: pasted__polySurface2
+    4300176: pasted__pTorus1
+    4300178: pasted__pTorus4
+    4300180: pasted__pTorus3
+    4300182: pasted__pTorus2
+    4300184: pasted__pTorus9
+    4300186: pasted__pTorus5
+    4300188: pasted__pCylinder4
+    4300190: pasted__pTorus8
+    4300192: pasted__pTorus9
+    4300194: pasted__pTorus5
+    4300196: pasted__pCylinder4
+    4300198: pasted__pTorus8
+    4300200: pasted__pTorus9
+    4300202: pasted__pTorus5
+    4300204: pasted__pCylinder4
+    4300206: pasted__pTorus8
+    4300208: Beater_Pre_Historic
+    4300210: Spike
     7400000: Take 001
     9500000: //RootNode
   materials:
