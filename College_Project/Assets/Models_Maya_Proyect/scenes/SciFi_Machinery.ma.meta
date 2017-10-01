@@ -19,6 +19,8 @@ ModelImporter:
     100022: pCube4
     100024: pCube5
     100026: pCube7
+    100028: back
+    100030: bottom
     400000: left
     400002: pasted__polySurface5
     400004: pCube1
@@ -33,7 +35,11 @@ ModelImporter:
     400022: pCube4
     400024: pCube5
     400026: pCube7
+    400028: back
+    400030: bottom
     2000000: left
+    2000002: back
+    2000004: bottom
     2300000: pasted__polySurface5
     2300002: pCube1
     2300004: pPlane1

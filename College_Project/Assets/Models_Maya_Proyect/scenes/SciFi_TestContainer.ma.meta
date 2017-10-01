@@ -39,6 +39,16 @@ ModelImporter:
     100062: bottom
     100064: polySurface12
     100066: polySurface13
+    100068: group2
+    100070: pCylinder7 1
+    100072: polySurface1 1
+    100074: polySurface11 1
+    100076: polySurface12 1
+    100078: polySurface13 1
+    100080: polySurface2 1
+    100082: polySurface3 1
+    100084: polySurface5 1
+    100086: polySurface9 1
     400000: pasted__polySurface2
     400002: pasted__polySurface4
     400004: pasted__polySurface5
@@ -73,6 +83,16 @@ ModelImporter:
     400062: bottom
     400064: polySurface12
     400066: polySurface13
+    400068: group2
+    400070: pCylinder7 1
+    400072: polySurface1 1
+    400074: polySurface11 1
+    400076: polySurface12 1
+    400078: polySurface13 1
+    400080: polySurface2 1
+    400082: polySurface3 1
+    400084: polySurface5 1
+    400086: polySurface9 1
     2000000: bottom
     2300000: pasted__polySurface5
     2300002: pasted__polySurface6
@@ -92,6 +112,13 @@ ModelImporter:
     2300030: polySurface9
     2300032: polySurface12
     2300034: polySurface13
+    2300036: pCylinder7 1
+    2300038: polySurface1 1
+    2300040: polySurface11 1
+    2300042: polySurface12 1
+    2300044: polySurface13 1
+    2300046: polySurface3 1
+    2300048: polySurface5 1
     3300000: pasted__polySurface5
     3300002: pasted__polySurface6
     3300004: pPlane1
@@ -110,6 +137,13 @@ ModelImporter:
     3300030: polySurface9
     3300032: polySurface12
     3300034: polySurface13
+    3300036: pCylinder7 1
+    3300038: polySurface1 1
+    3300040: polySurface11 1
+    3300042: polySurface12 1
+    3300044: polySurface13 1
+    3300046: polySurface3 1
+    3300048: polySurface5 1
     4300000: pPlane1
     4300002: pasted__polySurface5
     4300004: pasted__polySurface6
@@ -128,6 +162,13 @@ ModelImporter:
     4300030: polySurface3
     4300032: polySurface12
     4300034: polySurface13
+    4300036: polySurface12
+    4300038: polySurface13
+    4300040: pCylinder7
+    4300042: polySurface1
+    4300044: polySurface3
+    4300046: polySurface5
+    4300048: polySurface11
     9500000: //RootNode
   materials:
     importMaterials: 1

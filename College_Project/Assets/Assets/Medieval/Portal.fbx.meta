@@ -28,6 +28,8 @@ ModelImporter:
     100040: pCylinder4
     100042: pTorus1
     100044: pTorus1 1
+    100046: nurbsToPoly8
+    100048: nurbsToPoly8 1
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -51,6 +53,8 @@ ModelImporter:
     400040: pCylinder4
     400042: pTorus1
     400044: pTorus1 1
+    400046: nurbsToPoly8
+    400048: nurbsToPoly8 1
     2300000: pCube3
     2300002: pCylinder1
     2300004: pCylinder2
@@ -65,6 +69,8 @@ ModelImporter:
     2300022: pCylinder4
     2300024: pTorus1
     2300026: pTorus1 1
+    2300028: nurbsToPoly8
+    2300030: nurbsToPoly8 1
     3300000: pCube3
     3300002: pCylinder1
     3300004: pCylinder2
@@ -79,6 +85,8 @@ ModelImporter:
     3300022: pCylinder4
     3300024: pTorus1
     3300026: pTorus1 1
+    3300028: nurbsToPoly8
+    3300030: nurbsToPoly8 1
     4300000: pCube3
     4300002: pCylinder1
     4300004: pCylinder2
@@ -93,6 +101,8 @@ ModelImporter:
     4300022: pTorus1
     4300024: nurbsToPoly6
     4300026: nurbsToPoly3
+    4300028: nurbsToPoly8
+    4300030: nurbsToPoly8
   materials:
     importMaterials: 1
     materialName: 0
@@ -140,7 +150,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1

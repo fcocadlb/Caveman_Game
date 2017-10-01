@@ -116,6 +116,8 @@ ModelImporter:
     100216: pasted__pCylinder3 3
     100218: pTorus1
     100220: pTorus1 1
+    100222: nurbsToPoly8
+    100224: nurbsToPoly8 1
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -227,6 +229,8 @@ ModelImporter:
     400216: pasted__pCylinder3 3
     400218: pTorus1
     400220: pTorus1 1
+    400222: nurbsToPoly8
+    400224: nurbsToPoly8 1
     2300000: pCube3
     2300002: pCylinder3
     2300004: pasted__pCylinder4
@@ -289,6 +293,8 @@ ModelImporter:
     2300118: pasted__pCylinder3 1
     2300120: pTorus1
     2300122: pTorus1 1
+    2300124: nurbsToPoly8
+    2300126: nurbsToPoly8 1
     3300000: pCube3
     3300002: pCylinder3
     3300004: pasted__pCylinder4
@@ -351,6 +357,8 @@ ModelImporter:
     3300118: pasted__pCylinder3 1
     3300120: pTorus1
     3300122: pTorus1 1
+    3300124: nurbsToPoly8
+    3300126: nurbsToPoly8 1
     4300000: pCube3
     4300002: pCylinder3
     4300004: pCylinder4
@@ -413,6 +421,8 @@ ModelImporter:
     4300118: pTorus1
     4300120: nurbsToPoly6
     4300122: nurbsToPoly3
+    4300124: nurbsToPoly8
+    4300126: nurbsToPoly8
     9500000: //RootNode
   materials:
     importMaterials: 1

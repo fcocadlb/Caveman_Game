@@ -175,6 +175,16 @@ ModelImporter:
     100334: Trico_Medieval
     100336: Trico_Pre_Historic
     100338: Trico_Sci_Fi
+    100340: Arrow
+    100342: group 1
+    100344: Helmet
+    100346: pasted__group1 3
+    100348: pasted__polySurface1 3
+    100350: pasted__polySurface2 3
+    100352: pCube7
+    100354: Shooter_Medieval 1
+    100356: Spike1
+    100358: Spike2
     400000: Babosa
     400002: //RootNode
     400004: imagePlane1
@@ -345,6 +355,16 @@ ModelImporter:
     400334: Trico_Medieval
     400336: Trico_Pre_Historic
     400338: Trico_Sci_Fi
+    400340: Arrow
+    400342: group 1
+    400344: Helmet
+    400346: pasted__group1 3
+    400348: pasted__polySurface1 3
+    400350: pasted__polySurface2 3
+    400352: pCube7
+    400354: Shooter_Medieval 1
+    400356: Spike1
+    400358: Spike2
     2000000: left
     2000002: back
     2300000: pCube2
@@ -453,6 +473,14 @@ ModelImporter:
     2300206: Trico_Medieval
     2300208: Trico_Pre_Historic
     2300210: Trico_Sci_Fi
+    2300212: Arrow
+    2300214: Helmet
+    2300216: pasted__polySurface1 3
+    2300218: pasted__polySurface2 3
+    2300220: pCube7
+    2300222: Shooter_Medieval 1
+    2300224: Spike1
+    2300226: Spike2
     3300000: pCube2
     3300002: pCube3
     3300004: pCylinder6
@@ -559,6 +587,14 @@ ModelImporter:
     3300206: Trico_Medieval
     3300208: Trico_Pre_Historic
     3300210: Trico_Sci_Fi
+    3300212: Arrow
+    3300214: Helmet
+    3300216: pasted__polySurface1 3
+    3300218: pasted__polySurface2 3
+    3300220: pCube7
+    3300222: Shooter_Medieval 1
+    3300224: Spike1
+    3300226: Spike2
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -665,6 +701,13 @@ ModelImporter:
     4300206: pasted__pTorus8
     4300208: Beater_Pre_Historic
     4300210: Spike
+    4300212: Arrow
+    4300214: Helmet
+    4300216: pasted__polySurface1
+    4300218: pasted__polySurface2
+    4300220: pCube7
+    4300222: Spike1
+    4300224: Spike2
     7400000: Take 001
     9500000: //RootNode
   materials:
