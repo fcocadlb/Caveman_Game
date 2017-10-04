@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 2025d1767683be54eb0a6916840810fe
+timeCreated: 1506992200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: curve1
+    100004: curve2
+    100006: curve3
+    100008: curve4
+    100010: group1
+    100012: group2
+    100014: imagePlane1
+    100016: imagePlane2
+    100018: left
+    100020: loftedSurface1
+    100022: pasted__Head
+    100024: pasted__HeadTop_End
+    100026: pasted__Hips
+    100028: pasted__LeftArm
+    100030: pasted__LeftFoot
+    100032: pasted__LeftForeArm
+    100034: pasted__LeftHand
+    100036: pasted__LeftHandIndex1
+    100038: pasted__LeftHandIndex2
+    100040: pasted__LeftHandIndex3
+    100042: pasted__LeftHandMiddle1
+    100044: pasted__LeftHandMiddle2
+    100046: pasted__LeftHandMiddle3
+    100048: pasted__LeftHandPinky1
+    100050: pasted__LeftHandPinky2
+    100052: pasted__LeftHandPinky3
+    100054: pasted__LeftHandRing1
+    100056: pasted__LeftHandRing2
+    100058: pasted__LeftHandRing3
+    100060: pasted__LeftHandThumb1
+    100062: pasted__LeftHandThumb2
+    100064: pasted__LeftHandThumb3
+    100066: pasted__LeftLeg
+    100068: pasted__LeftShoulder
+    100070: pasted__LeftToeBase
+    100072: pasted__LeftUpLeg
+    100074: pasted__Neck
+    100076: pasted__Neck1
+    100078: pasted__RightArm
+    100080: pasted__RightFoot
+    100082: pasted__RightFootToeBase_End
+    100084: pasted__RightFootToeBase_End1
+    100086: pasted__RightForeArm
+    100088: pasted__RightHand
+    100090: pasted__RightHandIndex1
+    100092: pasted__RightHandIndex2
+    100094: pasted__RightHandIndex3
+    100096: pasted__RightHandIndex4
+    100098: pasted__RightHandIndex8
+    100100: pasted__RightHandMiddle1
+    100102: pasted__RightHandMiddle2
+    100104: pasted__RightHandMiddle3
+    100106: pasted__RightHandMiddle4
+    100108: pasted__RightHandMiddle8
+    100110: pasted__RightHandPinky1
+    100112: pasted__RightHandPinky2
+    100114: pasted__RightHandPinky3
+    100116: pasted__RightHandPinky4
+    100118: pasted__RightHandPinky8
+    100120: pasted__RightHandRing1
+    100122: pasted__RightHandRing2
+    100124: pasted__RightHandRing3
+    100126: pasted__RightHandRing4
+    100128: pasted__RightHandRing8
+    100130: pasted__RightHandThumb1
+    100132: pasted__RightHandThumb2
+    100134: pasted__RightHandThumb3
+    100136: pasted__RightHandThumb4
+    100138: pasted__RightHandThumb8
+    100140: pasted__RightLeg
+    100142: pasted__RightShoulder
+    100144: pasted__RightToeBase
+    100146: pasted__RightUpLeg
+    100148: pasted__Spine
+    100150: pasted__Spine1
+    100152: pasted__Spine2
+    100154: pCube3
+    400000: //RootNode
+    400002: curve1
+    400004: curve2
+    400006: curve3
+    400008: curve4
+    400010: group1
+    400012: group2
+    400014: imagePlane1
+    400016: imagePlane2
+    400018: left
+    400020: loftedSurface1
+    400022: pasted__Head
+    400024: pasted__HeadTop_End
+    400026: pasted__Hips
+    400028: pasted__LeftArm
+    400030: pasted__LeftFoot
+    400032: pasted__LeftForeArm
+    400034: pasted__LeftHand
+    400036: pasted__LeftHandIndex1
+    400038: pasted__LeftHandIndex2
+    400040: pasted__LeftHandIndex3
+    400042: pasted__LeftHandMiddle1
+    400044: pasted__LeftHandMiddle2
+    400046: pasted__LeftHandMiddle3
+    400048: pasted__LeftHandPinky1
+    400050: pasted__LeftHandPinky2
+    400052: pasted__LeftHandPinky3
+    400054: pasted__LeftHandRing1
+    400056: pasted__LeftHandRing2
+    400058: pasted__LeftHandRing3
+    400060: pasted__LeftHandThumb1
+    400062: pasted__LeftHandThumb2
+    400064: pasted__LeftHandThumb3
+    400066: pasted__LeftLeg
+    400068: pasted__LeftShoulder
+    400070: pasted__LeftToeBase
+    400072: pasted__LeftUpLeg
+    400074: pasted__Neck
+    400076: pasted__Neck1
+    400078: pasted__RightArm
+    400080: pasted__RightFoot
+    400082: pasted__RightFootToeBase_End
+    400084: pasted__RightFootToeBase_End1
+    400086: pasted__RightForeArm
+    400088: pasted__RightHand
+    400090: pasted__RightHandIndex1
+    400092: pasted__RightHandIndex2
+    400094: pasted__RightHandIndex3
+    400096: pasted__RightHandIndex4
+    400098: pasted__RightHandIndex8
+    400100: pasted__RightHandMiddle1
+    400102: pasted__RightHandMiddle2
+    400104: pasted__RightHandMiddle3
+    400106: pasted__RightHandMiddle4
+    400108: pasted__RightHandMiddle8
+    400110: pasted__RightHandPinky1
+    400112: pasted__RightHandPinky2
+    400114: pasted__RightHandPinky3
+    400116: pasted__RightHandPinky4
+    400118: pasted__RightHandPinky8
+    400120: pasted__RightHandRing1
+    400122: pasted__RightHandRing2
+    400124: pasted__RightHandRing3
+    400126: pasted__RightHandRing4
+    400128: pasted__RightHandRing8
+    400130: pasted__RightHandThumb1
+    400132: pasted__RightHandThumb2
+    400134: pasted__RightHandThumb3
+    400136: pasted__RightHandThumb4
+    400138: pasted__RightHandThumb8
+    400140: pasted__RightLeg
+    400142: pasted__RightShoulder
+    400144: pasted__RightToeBase
+    400146: pasted__RightUpLeg
+    400148: pasted__Spine
+    400150: pasted__Spine1
+    400152: pasted__Spine2
+    400154: pCube3
+    2000000: left
+    2300000: loftedSurface1
+    2300002: pCube3
+    3300000: loftedSurface1
+    3300002: pCube3
+    4300000: pCube3
+    4300002: loftedSurface1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

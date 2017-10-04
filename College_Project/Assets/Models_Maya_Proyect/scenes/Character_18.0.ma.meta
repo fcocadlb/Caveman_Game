@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 9cebe19f702d4714b88829153fa40ff2
+timeCreated: 1507072664
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: mixamorig:LeftArm
+    100006: mixamorig:LeftForeArm
+    100008: mixamorig:LeftHand
+    100010: mixamorig:LeftHandIndex1
+    100012: mixamorig:LeftHandIndex2
+    100014: mixamorig:LeftHandIndex3
+    100016: mixamorig:LeftHandIndex4
+    100018: mixamorig:LeftHandMiddle1
+    100020: mixamorig:LeftHandMiddle2
+    100022: mixamorig:LeftHandMiddle3
+    100024: mixamorig:LeftHandMiddle4
+    100026: mixamorig:LeftHandPinky1
+    100028: mixamorig:LeftHandPinky2
+    100030: mixamorig:LeftHandPinky3
+    100032: mixamorig:LeftHandPinky4
+    100034: mixamorig:LeftHandRing1
+    100036: mixamorig:LeftHandRing2
+    100038: mixamorig:LeftHandRing3
+    100040: mixamorig:LeftHandRing4
+    100042: mixamorig:LeftHandThumb1
+    100044: mixamorig:LeftHandThumb2
+    100046: mixamorig:LeftHandThumb3
+    100048: mixamorig:LeftHandThumb4
+    100050: mixamorig:LeftShoulder
+    100052: mixamorig:RightArm
+    100054: mixamorig:RightForeArm
+    100056: mixamorig:RightHand
+    100058: mixamorig:RightHandIndex1
+    100060: mixamorig:RightHandIndex2
+    100062: mixamorig:RightHandIndex3
+    100064: mixamorig:RightHandIndex4
+    100066: mixamorig:RightHandMiddle1
+    100068: mixamorig:RightHandMiddle2
+    100070: mixamorig:RightHandMiddle3
+    100072: mixamorig:RightHandMiddle4
+    100074: mixamorig:RightHandPinky1
+    100076: mixamorig:RightHandPinky2
+    100078: mixamorig:RightHandPinky3
+    100080: mixamorig:RightHandPinky4
+    100082: mixamorig:RightHandRing1
+    100084: mixamorig:RightHandRing2
+    100086: mixamorig:RightHandRing3
+    100088: mixamorig:RightHandRing4
+    100090: mixamorig:RightHandThumb1
+    100092: mixamorig:RightHandThumb2
+    100094: mixamorig:RightHandThumb3
+    100096: mixamorig:RightHandThumb4
+    100098: mixamorig:RightShoulder
+    100100: mixamorig:Spine2
+    100102: pasted__pCube3
+    100104: pCube3
+    400000: //RootNode
+    400002: group
+    400004: mixamorig:LeftArm
+    400006: mixamorig:LeftForeArm
+    400008: mixamorig:LeftHand
+    400010: mixamorig:LeftHandIndex1
+    400012: mixamorig:LeftHandIndex2
+    400014: mixamorig:LeftHandIndex3
+    400016: mixamorig:LeftHandIndex4
+    400018: mixamorig:LeftHandMiddle1
+    400020: mixamorig:LeftHandMiddle2
+    400022: mixamorig:LeftHandMiddle3
+    400024: mixamorig:LeftHandMiddle4
+    400026: mixamorig:LeftHandPinky1
+    400028: mixamorig:LeftHandPinky2
+    400030: mixamorig:LeftHandPinky3
+    400032: mixamorig:LeftHandPinky4
+    400034: mixamorig:LeftHandRing1
+    400036: mixamorig:LeftHandRing2
+    400038: mixamorig:LeftHandRing3
+    400040: mixamorig:LeftHandRing4
+    400042: mixamorig:LeftHandThumb1
+    400044: mixamorig:LeftHandThumb2
+    400046: mixamorig:LeftHandThumb3
+    400048: mixamorig:LeftHandThumb4
+    400050: mixamorig:LeftShoulder
+    400052: mixamorig:RightArm
+    400054: mixamorig:RightForeArm
+    400056: mixamorig:RightHand
+    400058: mixamorig:RightHandIndex1
+    400060: mixamorig:RightHandIndex2
+    400062: mixamorig:RightHandIndex3
+    400064: mixamorig:RightHandIndex4
+    400066: mixamorig:RightHandMiddle1
+    400068: mixamorig:RightHandMiddle2
+    400070: mixamorig:RightHandMiddle3
+    400072: mixamorig:RightHandMiddle4
+    400074: mixamorig:RightHandPinky1
+    400076: mixamorig:RightHandPinky2
+    400078: mixamorig:RightHandPinky3
+    400080: mixamorig:RightHandPinky4
+    400082: mixamorig:RightHandRing1
+    400084: mixamorig:RightHandRing2
+    400086: mixamorig:RightHandRing3
+    400088: mixamorig:RightHandRing4
+    400090: mixamorig:RightHandThumb1
+    400092: mixamorig:RightHandThumb2
+    400094: mixamorig:RightHandThumb3
+    400096: mixamorig:RightHandThumb4
+    400098: mixamorig:RightShoulder
+    400100: mixamorig:Spine2
+    400102: pasted__pCube3
+    400104: pCube3
+    2300000: pasted__pCube3
+    3300000: pasted__pCube3
+    4300000: pCube3
+    4300002: pasted__pCube3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

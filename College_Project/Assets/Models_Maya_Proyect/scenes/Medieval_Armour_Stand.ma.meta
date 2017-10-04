@@ -74,6 +74,11 @@ ModelImporter:
     100132: pCylinder1
     100134: back
     100136: left
+    100138: group2
+    100140: group3
+    100142: pasted__Helmet
+    100144: pCube2 1
+    100146: pCylinder1 1
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -143,14 +148,28 @@ ModelImporter:
     400132: pCylinder1
     400134: back
     400136: left
+    400138: group2
+    400140: group3
+    400142: pasted__Helmet
+    400144: pCube2 1
+    400146: pCylinder1 1
     2000000: back
     2000002: left
     2300000: pCube2
     2300002: pCylinder1
+    2300004: pasted__Helmet
+    2300006: pCube2 1
+    2300008: pCylinder1 1
     3300000: pCube2
     3300002: pCylinder1
+    3300004: pasted__Helmet
+    3300006: pCube2 1
+    3300008: pCylinder1 1
     4300000: pCube2
     4300002: pCylinder1
+    4300004: pasted__Helmet
+    4300006: pCylinder1
+    4300008: pCube2
     9500000: //RootNode
   materials:
     importMaterials: 1

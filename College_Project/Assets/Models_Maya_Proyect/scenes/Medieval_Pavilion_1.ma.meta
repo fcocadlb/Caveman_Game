@@ -96,6 +96,14 @@ ModelImporter:
     100176: Wood 1
     100178: polySurface1
     100180: polySurface2
+    100182: bottom
+    100184: group1_pTorus1
+    100186: group2
+    100188: pCube3
+    100190: pCube4
+    100192: pCube5
+    100194: pCube6
+    100196: pTorus1
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -187,7 +195,16 @@ ModelImporter:
     400176: Wood 1
     400178: polySurface1
     400180: polySurface2
+    400182: bottom
+    400184: group1_pTorus1
+    400186: group2
+    400188: pCube3
+    400190: pCube4
+    400192: pCube5
+    400194: pCube6
+    400196: pTorus1
     2000000: left
+    2000002: bottom
     2300000: pCylinder10
     2300002: pCylinder11
     2300004: pCylinder12
@@ -202,6 +219,12 @@ ModelImporter:
     2300022: Pavilion 1
     2300024: polySurface1
     2300026: polySurface2
+    2300028: group1_pTorus1
+    2300030: pCube3
+    2300032: pCube4
+    2300034: pCube5
+    2300036: pCube6
+    2300038: pTorus1
     3300000: pCylinder10
     3300002: pCylinder11
     3300004: pCylinder12
@@ -216,6 +239,12 @@ ModelImporter:
     3300022: Pavilion 1
     3300024: polySurface1
     3300026: polySurface2
+    3300028: group1_pTorus1
+    3300030: pCube3
+    3300032: pCube4
+    3300034: pCube5
+    3300036: pCube6
+    3300038: pTorus1
     4300000: pCylinder8
     4300002: pCylinder7
     4300004: pCylinder6
@@ -230,6 +259,12 @@ ModelImporter:
     4300022: Pavilion
     4300024: polySurface1
     4300026: polySurface2
+    4300028: group1_pTorus1
+    4300030: pTorus1
+    4300032: pCube6
+    4300034: pCube5
+    4300036: pCube4
+    4300038: pCube3
     9500000: //RootNode
   materials:
     importMaterials: 1

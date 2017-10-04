@@ -32,6 +32,7 @@ ModelImporter:
     100048: Wood 1
     100050: polySurface1
     100052: polySurface2
+    100054: group1_pTorus1
     400000: //RootNode
     400002: Pavilion 1
     400004: pCylinder10
@@ -59,6 +60,7 @@ ModelImporter:
     400048: Wood 1
     400050: polySurface1
     400052: polySurface2
+    400054: group1_pTorus1
     2300000: Pavilion 1
     2300002: pCylinder10
     2300004: pCylinder11
@@ -76,6 +78,7 @@ ModelImporter:
     2300028: Wood
     2300030: polySurface1
     2300032: polySurface2
+    2300034: group1_pTorus1
     3300000: Pavilion 1
     3300002: pCylinder10
     3300004: pCylinder11
@@ -93,6 +96,7 @@ ModelImporter:
     3300028: Wood
     3300030: polySurface1
     3300032: polySurface2
+    3300034: group1_pTorus1
     4300000: Wood
     4300002: Pavilion
     4300004: Roof
@@ -110,6 +114,7 @@ ModelImporter:
     4300028: pCylinder12
     4300030: polySurface1
     4300032: polySurface2
+    4300034: group1_pTorus1
   materials:
     importMaterials: 1
     materialName: 0

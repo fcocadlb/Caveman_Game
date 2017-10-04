@@ -185,6 +185,7 @@ ModelImporter:
     100354: Shooter_Medieval 1
     100356: Spike1
     100358: Spike2
+    100360: Mud_Dead
     400000: Babosa
     400002: //RootNode
     400004: imagePlane1
@@ -365,6 +366,7 @@ ModelImporter:
     400354: Shooter_Medieval 1
     400356: Spike1
     400358: Spike2
+    400360: Mud_Dead
     2000000: left
     2000002: back
     2300000: pCube2
@@ -481,6 +483,7 @@ ModelImporter:
     2300222: Shooter_Medieval 1
     2300224: Spike1
     2300226: Spike2
+    2300228: Mud_Dead
     3300000: pCube2
     3300002: pCube3
     3300004: pCylinder6
@@ -595,6 +598,7 @@ ModelImporter:
     3300222: Shooter_Medieval 1
     3300224: Spike1
     3300226: Spike2
+    3300228: Mud_Dead
     4300000: pCube2
     4300002: pCylinder6
     4300004: pCube3
@@ -708,6 +712,7 @@ ModelImporter:
     4300220: pCube7
     4300222: Spike1
     4300224: Spike2
+    4300226: Mud_Dead
     7400000: Take 001
     9500000: //RootNode
   materials:

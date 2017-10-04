@@ -128,6 +128,10 @@ ModelImporter:
     100240: Spine
     100242: Spine1
     100244: Spine2
+    100246: curve1
+    100248: curve2
+    100250: curve3
+    100252: curve4
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -251,6 +255,10 @@ ModelImporter:
     400240: Spine
     400242: Spine1
     400244: Spine2
+    400246: curve1
+    400248: curve2
+    400250: curve3
+    400252: curve4
     2000000: left
     2300000: pCube3
     3300000: pCube3
